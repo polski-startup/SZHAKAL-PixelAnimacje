@@ -1,0 +1,9 @@
+# CHARACTERS
+Vet: veterinary researcher in their late 30s, white knee-length lab coat over a soft sage-green scrub top, navy-blue trousers, white sneakers, short tidy chestnut-brown hair tied back in a low ponytail, slim wire-frame round glasses with a faint cyan HUD reflection on the lenses, a small embroidered paw-print logo on the left chest of the lab coat, a stethoscope draped around the neck, soft beige nitrile gloves on both hands, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Wszyscy chcemy żeby nasze psy żyły wiecznie. Ale to niemożliwe — dlatego naukowcy stworzyli tabletkę wydłużającą ich życie o całe lata. Pixel-art starszy złoty retriever z siwą sierścią wokół pyska siedzi spokojnie na ciepłym dywanie w domowym salonie, oczy łagodne, w bocheńce złotej godziny zachodu słońca przez okno, na podłodze obok piłka i miska z wodą.
+
+Naukowcy opracowali codzienną tabletkę o smaku wołowiny dla starszych psów. Lek celuje w hormon odpowiedzialny za szybkie starzenie. Wczesne badania dają psu aż pięć dodatkowych lat. Vet klęczy w gabinecie weterynaryjnym przy tym samym złotym retrieverze, w prawej dłoni trzyma małą rust-red owalną tabletkę o smaku wołowiny, drugą ręką głaszcze psa po głowie, nad sceną lewituje hologram +5 LAT w soft teal.
+
+Lek przeszedł 2 z 3 etapów FDA, premiera do 2027 roku za 40-90 dolarów miesięcznie. Pierwszy oficjalny lek anti-aging dla jakiegokolwiek gatunku. Kupiłbyś go swojemu psu? Ten sam pies — teraz pełen energii — biegnie po zielonym trawniku w słońcu, sierść lśni jak za młodych lat, w tle holograficzny banner FDA APPROVED 2027 w warm gold, Vet patrzy z uśmiechem trzymając klipboard.

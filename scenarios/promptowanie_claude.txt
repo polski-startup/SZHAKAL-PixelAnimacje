@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Większość ludzi używa AI źle — i nawet nie wie, że to robi. Mówię o konkretnym błędzie, który widać u founderów. Jedna grupa: deleguje AI wszystko — decyzje, pomysły, strategie. Produkują dużo, szybko, efektywnie. Ale ich praca zaczyna wyglądać identycznie. AI wymazuje to, co ich wyróżniało. Druga grupa robi coś innego.
+
+Automatyzują tylko to, co nie wymaga mózgu — rutynę, analizę, formatowanie. Kreatywność i decyzje zostają po ich stronie. To właśnie tutaj jest klucz. Konkretnie: nagrywają surowe pomysły głosem, bez edycji. Potem prompt destyluje to w strukturę. AI egzekwuje — człowiek myśli. Albo pitchują własny pomysł do AI jak do adwokata diabła.
+
+Każda dziura w argumencie wychodzi przed publikacją, nie po. AI do analizy danych, człowiek do interpretacji. Przewaga nie leży w tym, kto lepiej promptuje. Leży w tym, do czego promptujesz. Najlepsi founderów, których obserwuję, nie zastępują siebie AI. Wzmacniają nim to, w czym już są dobrzy. Pytanie do ciebie: w czym ty jesteś dobry, zanim sięgniesz po AI? Napisz to w komentarzu — ciekawy jestem, jak to wygląda u was.

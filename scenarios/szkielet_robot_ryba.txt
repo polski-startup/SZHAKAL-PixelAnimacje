@@ -1,0 +1,9 @@
+# CHARACTERS
+Researcher: biomedical / materials researcher in their early 40s, white knee-length lab coat over a soft sage-green crew-neck, dark charcoal trousers, white lab clogs, short tidy black hair, slim silver wire-frame round glasses with a faint cyan HUD reflection on the lenses, a small embroidered atom-icon institute logo on the left chest of the lab coat, soft beige nitrile gloves on both hands, ~96px-tall pixel-art sprite
+
+# SCENES
+Martwa langustynka właśnie stała się częścią robota. Nie metaforycznie — dosłownie. Laboratorium EPFL w Szwajcarii buduje aktuatory z pancerzy martwych skorupiaków. Aktuator to sztuczny mięsień — element który wprawia robota w ruch. Problem w tym, że inżynierowie od lat nie potrafili czegoś odtworzyć. Naturalny egzoszkielet łączy twardy pancerz z elastycznymi stawami jednocześnie.
+
+Żaden syntetyczny materiał nie robi tego równie efektywnie. Ewolucja rozwiązała ten problem setki milionów lat przed nami. Taki aktuator waży 3 gramy. Ale dźwiga do 500 gramów — ok. 167 razy swój ciężar własny. Zgina się około 8 razy na sekundę. Robot pływający napędzany tym systemem osiąga 11 centymetrów na sekundę. A teraz najlepsza część.
+
+Przemysł spożywczy wyrzuca miliony ton takich pancerzy każdego roku. To nie surowiec przyszłości — to dzisiejszy odpad. Po użyciu pancerz może się rozłożyć biodegradowalnie, syntetyczne elementy wracają do obiegu. Rice University zaczęło tę koncepcję od pająków w 2022 roku. EPFL właśnie rozszerzyło ją na świat podwodny. Pytanie już nie brzmi czy to zadziała — tylko jak daleko to zajdzie. Napisz w komentarzu: gdzie postawiasz granicę między recyklingiem a czymś innym.

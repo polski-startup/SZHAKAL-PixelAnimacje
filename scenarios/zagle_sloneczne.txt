@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Twoje statki kosmiczne mogą latać bez paliwa. To nie sci-fi. To fizyka, którą już testujemy w kosmosie. Fotony — cząstki światła — nie mają masy. Ale mają pęd. Gdy uderzają w powierzchnię, odpychają ją. Siła jest minimalna — 4–9 mikronewtonów na metr kwadratowy.
+
+W próżni jednak nie ma tarcia. Każda mikronewton kumuluje się przez dni, tygodnie, miesiące. Japońska sonda IKAROS w 2010 roku jako pierwsza żeglowała na słońcu przez kosmos. Jej żagiel miał 20 metrów — cieńszy niż ludzki włos. I działał. Teraz zastanów się nad tym: najszybsze rakiety spalają tysiące ton paliwa.
+
+Żagiel słoneczny nie spala nic. Projekt Breakthrough Starshot planował wysłać mikrosondę do Alpha Centauri. Laser naziemny rozpędzi żagiel do 20 procent prędkości światła. Do najbliższej gwiazdy — w 20 lat zamiast 75 000. Dosłownie jedziemy na świetle. Co byś wysłał w kosmos na żaglu słonecznym?

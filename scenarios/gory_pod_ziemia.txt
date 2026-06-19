@@ -1,0 +1,9 @@
+# CHARACTERS
+Geophysicist: senior Earth-sciences researcher in their late 40s, white knee-length lab coat over a deep-burgundy turtleneck, dark charcoal trousers, dark brown leather shoes, short tidy salt-and-pepper hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered globe-icon logo on the left chest of the lab coat, bronze-tipped seismometer pen tucked behind the right ear, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Wszyscy patrzymy w niebo szukając najwyższych szczytów. Ale to ogromny błąd — najwyższe góry na Ziemi są ukryte głęboko pod naszymi stopami. Pixel-art przekrojowy globus Ziemi obraca się powoli na czarnym tle kosmosu, w jego głębi pulsują dwa gigantyczne ciemnoczerwone kształty — jeden pod Afryką, drugi pod Pacyfikiem — każdy 100x większy niż mały biały trójkącik Mount Everestu pokazany dla skali na powierzchni.
+
+Naukowcy zbadali granicę jądra i płaszcza Ziemi prawie 2000 km pod powierzchnią — odkryli dwie struktury, każda 1000 km wysokości, sto razy więcej niż Everest. Geophysicist stoi w nowoczesnym geological-survey lab obok holograficznego przekroju Ziemi, jedna ręka wskazuje na rust-red strukturę pod Afryką, druga na cyan-rust gradient pod Pacyfikiem, skala "100x EVEREST" pulsuje obok.
+
+Te struktury mogą być resztkami obcej planety Teja która uderzyła w Ziemię tworząc Księżyc — sterują też wulkanami na Hawajach i Islandii. Czy Ziemia skrywa więcej takich tajemnic? Pixel-art kosmiczna scena: protoplaneta Teja zderza się z prymitywną Ziemią, fragmenty wbijają się w głąb, w tle nowonarodzony Księżyc, na powierzchni Ziemi małe pomarańczowe wulkany na Hawajach i Islandii pulsują w rytm głębinowych blobów.

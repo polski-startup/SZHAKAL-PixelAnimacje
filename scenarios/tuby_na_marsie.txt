@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Na Marsie leży paczka, która może zmienić historię ludzkości. Nikt jej jeszcze nie odebrał. NASA zostawiła na powierzchni Marsa 10 tytanowych pojemników — wielkości cygara. Każdy zawiera cylindryczny rdzeń skalny, wielkości kredy. Skały mają prawie 4 miliardy lat. Pochodzą z miejsca, które kiedyś było jeziorem.
+
+Zebrał je łazik Perseverance — jeden po drugim, każdy zdeponowany na mapie. Próbka numer 25 ma wzór zwany leopard spots. Na Ziemi taki wzór tworzą wyłącznie mikroby. To może być ślad życia pozaziemskiego, zamrożony w skale od 4 miliardów lat. Siedzisz teraz z tym faktem? Dowód może już istnieć.
+
+Leży na Marsie w tytanowej tubce, pokrytej pomarańczowym pyłem. Jedynym problemem jest odebranie paczki. Misja Mars Sample Return miała ją przywieźć na Ziemię. Ale NASA cięła budżety — misja została anulowana. Te próbki mogą czekać dekadę lub dłużej. Jesteś gotowy tyle lat czekać na odpowiedź na największe pytanie w historii?

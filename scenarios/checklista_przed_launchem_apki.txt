@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Myślisz, że jesteś gotowy na launch apki? Nie jesteś. Jest 5 rzeczy, których 99% devów nie robi przed wysłaniem do App Store. Zacznijmy od App Store. Bez privacy policy Apple odrzuci cię na starcie. Support URL musi istnieć — i musi działać w dniu review. Keywords to 100 znaków — każdy musi być przemyślany. Screenshots mają pokazywać wartość przez interfejs.
+
+Teraz website. Twoja landing page potrzebuje Open Graph meta tagów. Bez nich link na Twitterze wygląda jak gołe URL bez podglądu. Google Search Console — dodaj stronę jeszcze przed launchem. Google musi wiedzieć, że istniejesz. Teraz niespodzianka, której nikt nie robi. Bing Webmaster Tools i IndexNow — większość devów je ignoruje. "Kto w ogóle używa Binga?" Miliony ludzi.
+
+To darmowy ruch, który po prostu zostawiasz na stole. Marketing pre-launch to nie post w dniu launchu. Masz gotową listę mailową? Przygotowane grafiki na social media? Brakująca privacy policy = odrzucenie od Apple lub Google Play. 5 obszarów: App Store, website, SEO, marketing, legal. Sprawdź każdy z nich zanim klikniesz submit. Który z tych pięciu masz już gotowy? Napisz w komentarzu — pomogę zidentyfikować lukę.

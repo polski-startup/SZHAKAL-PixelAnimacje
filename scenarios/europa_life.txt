@@ -1,0 +1,9 @@
+# CHARACTERS
+NASAEngineer: NASA mission engineer in their mid-30s, soft navy-blue jumpsuit with rolled-up sleeves, white sneakers with a thin red pixel-stripe, short tidy auburn hair, slim silver wire-frame glasses with a faint amber HUD reflection on the lenses, a circular NASA-style red-white-and-blue mission patch on the left chest, white tablet device with cyan pixel-screen tucked under the right arm, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Europa była naszym najlepszym kandydatem do znalezienia obcego życia. Ale NASA właśnie odkryła tam gigantyczną przeszkodę. Pixel-art księżyc Europa wisi na pierwszym planie z charakterystycznymi rdzawo-białymi spękaniami lodu, nad nim w czarnym kosmosie krąży miniaturowa pixel-art sonda Juno z rozłożonymi panelami solarnymi, daleko w tle gigant Jupiter z czerwoną plamą.
+
+Sonda Juno po raz pierwszy bezpośrednio zmierzyła lód na Europie. Wcześniej myślano o kilku milach grubości — prawda okazała się brutalna: skorupa lodowa ma prawie 29 kilometrów. NASAEngineer stoi w sterylnym pomieszczeniu kontroli misji, nad nim lewituje przekrojowy hologram księżyca pokazujący gigantyczną grubość lodu (oznaczoną rust-red) i ocean pod spodem (cyan).
+
+Sonda wykryła ogromne pęknięcia w lodzie które mogą działać jak kanały transportujące składniki odżywcze do wody. W 2030 roku dotrze tam Europa Clipper. Czy pod lodem pływają obce organizmy? Pixel-art sonda Europa Clipper z większymi panelami solarnymi mknie przez kosmos w stronę Europy, na horyzoncie jaśnieje kropka nadziei, NASAEngineer obserwuje z uśmiechem przy oknie kontrolnym.

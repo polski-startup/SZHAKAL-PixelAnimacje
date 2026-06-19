@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+SpaceX buduje właśnie jeden z największych przemysłowych budynków na Ziemi. Nie elektrownię, nie stadion — fabrykę rakiet kosmicznych. Nazywa się GigaBay i stoi w Teksasie, w Boca Chica. Powierzchnia: ponad 65 tysięcy metrów kwadratowych. Szacowany koszt budowy: 250 milionów dolarów.
+
+Cel tej fabryki? Tysiąc Starshipów rocznie — Musk mówi już o dziesięciu tysiącach. Przez całą historię lotów kosmicznych ludzkość nie zbudowała tysiąca rakiet tej klasy łącznie. SpaceX chce produkować tyle co rok. NASA rozwijała SLS przez ponad dekadę zanim rakieta poleciała. SpaceX projektuje linię produkcyjną jak fabrykę samochodów.
+
+Elon Musk nazwał GigaBay jedną z największych konstrukcji na świecie — pod pewnymi względami. Budynek wciąż jest w trakcie budowy. Ale skala już teraz nie ma precedensu w historii przemysłu kosmicznego. Kosmonautyka właśnie zaczyna wyglądać jak przemysł masowy. Ile Starshipów SpaceX faktycznie wystrzeli do 2030 roku — napisz swoją liczbę w komentarzu.

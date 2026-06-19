@@ -1,0 +1,19 @@
+# CHARACTERS
+Astronom: female SETI researcher in her early 40s, dark indigo woolen turtleneck sweater under a deep-burgundy lab coat with a small embroidered radio-telescope-icon patch on the left chest, slim black trousers, soft warm-grey suede ankle boots, short-cropped auburn hair pulled into a low ponytail, slim wire-frame round glasses with a subtle teal HUD reflection on the lenses, focused thoughtful expression with a soft hint of curiosity, a small silver pendant of a stylized star on a thin chain, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Cywilizacji obcych nie szukamy słuchając radia. Szukamy ich ciepła.
+
+W 1964 roku Nikołaj Kardaszew stworzył skalę zaawansowania cywilizacji. Mierzy ją jedno — ile energii potrafią okiełznać. Typ pierwszy panuje nad energią całej planety. Typ drugi — nad energią całej swojej gwiazdy.
+
+Słońce ma moc dwadzieścia bilionów razy większą niż cała ludzkość. W 1960 roku Freeman Dyson opisał, jak tę energię przechwycić. Megastruktura otaczająca gwiazdę, łapiąca każdy jej foton.
+
+I tu popkultura cię oszukała. Lita sfera wokół Słońca jest mechanicznie niemożliwa. Newton pokazał problem stabilności twierdzeniem o powłoce sferycznej — gwiazda w środku dryfuje i zderza się ze ścianą.
+
+Dyson od początku mówił o roju paneli na orbicie. Star Trek, Halo i Stellaris pokazują wersję, która nigdy nie zadziała.
+
+Jak więc znaleźć taką cywilizację? Każdy panel pochłania światło i oddaje ciepło. Szukamy gwiazd świecących za mocno w podczerwieni.
+
+W 2015 roku znaleźliśmy kandydata — gwiazdę Tabby. Katalog KIC 8462852, anomalia jasności bez wytłumaczenia. Internet uwierzył w obcych na kilka miesięcy. Okazało się, że to pył komet, nie megastruktura. W 2024 roku projekt Hephaistos zgłosił siedem podejrzanych gwiazd. Wszystkie odpadły po weryfikacji.
+
+Cywilizacja typu drugiego zdradzi się drugą zasadą termodynamiki. Nie wiadomością. Odpadem cieplnym. Bo nawet obcy nie oszukają entropii. Myślisz, że obcy istnieją, ale ukrywają ciepło? Napisz w komentarzu.

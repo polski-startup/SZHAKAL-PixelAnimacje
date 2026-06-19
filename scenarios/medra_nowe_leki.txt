@@ -1,0 +1,9 @@
+# CHARACTERS
+Anchor: tech-news anchor in their late 30s, slate-grey suit blazer over a soft white button-up shirt, dark indigo trousers, polished black shoes, short tidy dark-brown hair, slim wire-frame rectangular glasses with a faint amber HUD reflection on the lenses, a small embroidered globe-icon news-channel logo on the left chest pocket, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Gdyby zbierać dane naukowe w dzisiejszym tempie — zajęłoby to tysiące lat. Dokładnie tyle potrzeba, żeby zbudować prawdziwe naukowe AI. Mówi to Michelle Lee, CEO startupu Medra. Problem nie jest w ilości eksperymentów. Problem jest w tym, co nauka od zawsze wyrzucała. Tradycyjne laboratoria zapisują tylko finalne wyniki. Każda nieudana próba, każde mikro-odchylenie — do kosza.
+
+A właśnie to — dane o tym, co nie zadziałało — AI potrzebuje najbardziej. Medra buduje autonomiczne laboratoria, gdzie roboty pracują 24 godziny na dobę, 7 dni w tygodniu. Szczypią, wirują, mieszają chemikalia bez udziału człowieka. Ale kluczowe jest to, co przy tym logują. Kąt pipety, głębokość zanurzenia, czas między dodawaniem substancji, prędkość mieszania. Każdy mikro-parametr — włącznie z każdą porażką. Naukowcy sterują robotami przez interfejs języka naturalnego, jak chatbotem.
+
+AI analizuje wyniki i proponuje zmiany do kolejnego runu. Pięć systemów Medry już działa w realnych obiektach — w tym w Genentech. Nagrodzony Noblem model do przewidywania białek wytrenowano na ułamku procenta danych, na których trenuje się dzisiejsze modele językowe. Wyobraź sobie, co stanie się z milionami udokumentowanych nieudanych prób. Medra zebrała 52 miliony dolarów i buduje laboratorium ze 100 robotami w Bay Area. Punkt zwrotny dla odkrywania nowych leków może być bliżej, niż myślisz. Jak szybko twoim zdaniem AI znajdzie lek na raka — napisz w komentarzu.

@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Od 2027 roku UE zakazuje telefonów z baterią, której nie możesz sam wymienić. Apple, Samsung, Google — wszyscy będą musieli przeprojektować swoje flagowce. Przez ostatnie 15 lat producenci klejili baterie na stałe. Celowo — żebyś kupił nowy telefon, zamiast wymienić ogniwo. Unia Europejska właśnie to zakończyła jednym rozporządzeniem. Każdy smartfon sprzedawany w Europie musi mieć baterię wymienialną przez użytkownika.
+
+Nie przez serwis, nie przez markowy sklep — przez ciebie. Wymóg wchodzi w życie za mniej niż dwa lata. Ale jest jeszcze drugi punkt regulacji — baterie muszą być też dłużej wytrzymałe. Koniec z ogniiwami, które po roku tracą połowę pojemności. Pamiętasz Nokię 3310 z baterią którą wyjmowałeś jednym ruchem? To nie jest powrót do przeszłości — to przyszłość, której branża celowo unikała.
+
+Europa produkuje miliony ton e-waste rocznie, a zużyte baterie to jeden z głównych winowajców. Ta regulacja może zmienić to globalnie — bo gdzie UE idzie, reszta świata często podąża. A ty — pamiętasz, kiedy ostatnio wymieniłeś baterię we własnym telefonie? - **Twierdzenie 1** (`zakazuje`) — inaccuracy jest konceptualna/prawna, nie liczba/data/nazwa → bez zmiany - **Twierdzenie 3** (`15 lat`) — fact-check potwierdza: "liczba jest przybliżona, ale oddaje realia" → bez zmiany - **Twierdzenie 10** (`jeden z głównych winowajców`) — konceptualne, nie liczba/data/nazwa → bez zmiany

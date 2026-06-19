@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Claude Code zapomina wszystko po zamknięciu sesji. Ten jeden problem kosztuje cię godziny pracy tygodniowo. Społeczność GitHub właśnie to naprawiła — w 48 godzin. Narzędzie open-source dodało trwałą pamięć do Claude Code. 46 000 gwiazdek w dwa dni — jeden z najszybszych wzrostów w historii AI toolingu. Instalacja zajmuje jedną komendę w terminalu.
+
+Bezpłatne, zero konfiguracji. Claude dosłownie "picks up exactly where you left off". Wchodzisz do nowej sesji — agent pamięta architekturę, konwencje kodu, decyzje z poprzedniego tygodnia. Koniec z przepisywaniem kontekstu od zera przy każdym otwarciu. I tu jest najważniejsza liczba: 90% mniej tokenów na sesję. Jeśli płacisz za API Anthropic, to zmienia twój rachunek miesięczny drastycznie.
+
+Mechanizm działa bez limitu kontekstu — "it never hits context limits". To nie oficjalna funkcja Anthropic — to łatka społeczności na lukę w produkcie. Instalujesz, podajesz ścieżkę do projektu, i pamięć działa automatycznie. Jeśli używasz Claude Code regularnie, to jedno narzędzie zmienia cały workflow. Szukaj na GitHub — 46 tysięcy deweloperów już to zrobiło. A ty nadal przepisujesz kontekst za każdym razem?

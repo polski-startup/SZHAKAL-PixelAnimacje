@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Shazam nie słucha muzyki. W ogóle. Twój telefon nagrywa dźwięk jako ciąg liczb. 44 100 razy na sekundę. Algorytm FFT rozkłada ten ciąg na częstotliwości. Powstaje spektrogram — mapa czasu, tonów i głośności. Shazam nie patrzy na całą mapę. Wyciąga tylko najgłośniejsze punkty — szczyty.
+
+Te punkty tworzą tak zwaną mapę konstelacji. Unikalny matematyczny odcisk palca każdej piosenki. A teraz najlepsza część. Telefon nie wysyła dźwięku na serwery Shazam. Wysyła tylko tę mapę punktów. Kilkaset matematycznych znaczników zamiast całego nagrania. Serwery porównują Twój odcisk palca z milionami piosenek. Nie brzmienie z brzmieniem.
+
+Matematykę z matematyką. Dlatego działa nawet w głośnym barze. Szum tła nie zmienia szczytów — są zbyt wyraźne. To nie jest rozpoznawanie muzyki. To geometria. Każda piosenka ma swoją unikalną linię papilarną, niezależnie od hałasu wokół. A Ty myślałeś że aplikacja po prostu "słucha"? Napisz w komentarzu co jeszcze działa inaczej niż myślisz.

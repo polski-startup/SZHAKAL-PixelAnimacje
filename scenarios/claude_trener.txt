@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Co jeśli Claude znałby każdy twój trening lepiej niż ty? Nie jako chatbot — ale jako agent który SAM pobiera twoje dane ze Stravy. To możliwe dziś, za darmo, w kwadrans. Protokół MCP pozwala Claude Desktop łączyć się z zewnętrznymi narzędziami. Strava ma darmowe API dla deweloperów — i możesz je dostać w dwie minuty. Wchodzisz na developers.strava.com i tworzysz nową aplikację.
+
+Dostajesz dwa klucze: Client ID i Client Secret. Otwierasz plik konfiguracyjny Claude Desktop — to zwykły JSON. Wklejasz klucze, zapisujesz, restartujesz aplikację. Claude prosi o autoryzację OAuth przez przeglądarkę — klikasz "zezwól". I to wszystko. Od teraz Claude może sam pobrać twoje aktywności, moc w watach i tętno.
+
+Nie odpowiadasz na pytania — dajesz mu narzędzia do działania. Zapytałem go o moje ostatnie treningi rowerowe. Dostałem indywidualny plan treningowy z analizą słabych punktów. Zero kosztów — darmowy plan Claude Desktop i darmowe API Stravy wystarczą. To różnica między chatbotem a prawdziwym agentem AI. Próbowałeś już podłączyć Claude do jakiegoś własnego narzędzia? Napisz w komentarzu co chcesz zintegrować jako następne.

@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Nie mów nikomu, że ci o tym powiedziałem. Możesz zobaczyć hasło aktualnie wpisane w polu przeglądarki — przez autouzupełnianie lub ręcznie. Bez aplikacji, bez wiedzy hakerskiej — w 10 sekund. Idź na stronę gdzie masz zapisane hasło przez autouzupełnianie. Kliknij prawym przyciskiem myszy na pole hasła.
+
+Wybierz "Zbadaj element" — albo naciśnij F12. Zobaczysz linię HTML z atrybutem type="password". Kliknij dwukrotnie na słowo password. Wpisz text i zatwierdź enterem. Hasło pojawia się wprost w polu — bez żadnego narzędzia. Bo przeglądarki ukrywają hasła tylko wizualnie.
+
+Gwiazdki to iluzja — dane zawsze były w DOM twojego urządzenia. To nie hacking — to inspekcja własnych danych. Działa w Chrome, Firefox i Edge — w Safari najpierw włącz Develop menu: Safari → Ustawienia → Zaawansowane → Pokaż narzędzia deweloperskie. Na iOS ta metoda nie zadziała prosto. Ważne: wyciągasz tylko hasło aktualnie wpisane w polu na otwartej stronie — czy to przez autouzupełnianie, czy przez ciebie samego. Zero dostępu do cudzych kont, zero magii — tylko HTML. Znasz jakiś inny trik z DevTools który powinni znać wszyscy?

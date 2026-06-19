@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Rośliny świecą kiedy jedzą CO2. Dosłownie emitują słabą podczerwień podczas fotosyntezy. I satelity NASA to rejestrują z orbity. Takie satelity jak OCO-3 i GOSAT-GW krążą nad Ziemią teraz. Nie robią zwykłych zdjęć.
+
+Mierzą fluorescencję chlorofilu indukowaną słońcem — SIF. Im więcej CO2 roślina pochłania, tym mocniej świeci. To wskaźnik aktywności całej biosfery w czasie rzeczywistym. Ale tu zaczyna się coś większego. NASA, NOAA i Caltech złożyły te dane w jeden indeks. Nazwali go Indeksem Zieloności.
+
+I pokazuje on coś, czego się nie spodziewałeś. Cała planeta oddycha w tym samym rytmie. Amazonia, pola Europy, dżungle Azji — wszystko zsynchronizowane. Ziemia funkcjonuje jak jeden gigantyczny organizm. To nie metafora — to twarde dane z satelitów. Jak myślisz — jesteśmy częścią tej planety, czy coraz bardziej się od niej odcinamy?

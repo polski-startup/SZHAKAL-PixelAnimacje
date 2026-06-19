@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Ktoś na TikToku twierdzi, że ma 5 sekretnych kodów do Claude. Sprawdziłem każdy z nich. Cztery są całkowicie zmyślone. Oto co naprawdę działa — i dlaczego takie filmiki w ogóle istnieją. Pierwszy kod to L99. Nie istnieje żadna funkcja Claude o tej nazwie. Drugi: /ghost. Wymyślony.
+
+Trzeci: /god mode. Też fikcja — klasyczny format fake AI hacka. Czwarty: OODA. To realna metodologia militarna Johna Boyda z lat 70. Możesz ją wpisać w prompt — ale to zwykłe polecenie, nie żaden "kod". Każdy user może to zrobić bez żadnego odblokowywania. Piąty: artifacts. I tu jest ciekawe — to jedyna prawdziwa funkcja Claude.ai na tej liście.
+
+Ale nie aktywuje się wpisaniem słowa w czat. To element interfejsu użytkownika, nie komenda. Dlaczego te filmiki działają? Bo grają na psychologii: masz wrażenie, że korporacja coś ukrywa przed zwykłymi userami. "Unlocks Claude's most aggressive and comprehensive response style" — to wzorcowy język pseudohakowania AI. Format z "sekretną wiedzą" to jeden z najprostszych mechanizmów wiralowych. Żadnych specjalnych kodów nie ma. Są za to dobre prompty — i tym różnią się ludzie którzy naprawdę umieją korzystać z AI. Powiedz mi: jakie AI hacki widziałeś ostatnio i chcesz żebym sprawdził?

@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Australijscy naukowcy stworzyli AI, która ewoluuje wewnątrz żywych komórek. Nie w symulacji — dosłownie w komórkach ssaków, takich jak twoje. To system o nazwie PROTEUS. I właśnie zmienia to, jak odkrywamy nowe leki. Normalne badanie jednej cząsteczki trwa latami. PROTEUS robi to w tygodnie. Używa czegoś zwanego ewolucją ukierunkowaną.
+
+Naukowcy zadają biologiczny problem — a żywe komórki same prowadzą selekcję w czasie rzeczywistym. System testuje miliony wariantów cząsteczek. Żywe komórki ssaków decydują, które przeżywają. Powtarzasz cykl — aż masz dokładnie to, czego szukasz. Brzmi jak science fiction. To właśnie nazywają biologiczną sztuczną inteligencją. A tu robi się naprawdę dziwnie.
+
+PROTEUS nie symuluje biologii na komputerze. On kieruje prawdziwą ewolucją od środka żywego systemu. To tak, jakby zaprogramować miliony lat Darwina na zamówienie. Zastosowania? Edycja genów, terapia genowa, nowe leki na choroby których dziś nie leczymy. Tygodnie zamiast miesięcy i lat. To może zmienić wszystko w medycynie. A ty co myślisz — czy powinniśmy sterować ewolucją biologiczną? Napisz w komentarzu.

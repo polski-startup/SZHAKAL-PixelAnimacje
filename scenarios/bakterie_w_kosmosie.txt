@@ -1,0 +1,11 @@
+# CHARACTERS
+Astronaut: veteran deep-space astronaut in a matte-white orbital EVA suit with slate-grey armored joint rings, reinforced chest control panel with glowing soft-amber status LEDs, heavy space boots with bronze tread edges, iridescent gold-mirrored helmet visor with a faint teal HUD reflection on the inside curve, small rust-red mission patch on the left shoulder featuring an abstract pixel-art rocket-and-leaf glyph, visible tether cable with copper connectors, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Astronauta dryfuje w otwartym kosmosie nad krzywizną Ziemi. Wokół niego unoszą się półprzezroczyste świetliste glify symbolizujące uśpione wirusy w jego ciele.
+
+Wnętrze modułu Apollo po powrocie na Ziemię. Dwóch astronautów siedzi zgarbionych, kaszle w chusteczki. W powietrzu krążą pixel-artowe czerwone glify-drobnoustroje.
+
+Makroscopowe cross-section ciała astronauty w nieważkości — przezroczyste kanały krwiobiegu z maleńkimi komórkami odpornościowymi, które zamiast pędzić autostradą dryfują bezładnie. Czerwony glif hormonu kortyzolu pulsuje w tle jak alarm.
+
+Astronauta na ISS pobiera próbkę śliny do małej fiolki z bursztynową płynną próbką. Za oknem modułu wschodzi Księżyc — podpowiedź misji Artemis. Warm amber glow.

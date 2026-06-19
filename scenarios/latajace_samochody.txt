@@ -1,0 +1,9 @@
+# CHARACTERS
+Pilot: eVTOL test pilot in their early 40s, sleek charcoal-grey flight suit with rust-red trim along the shoulder seams and zipper, white aviation gloves, polished black ankle boots with cyan pixel-accents on the soles, short tidy black hair, sleek matte-black aviator helmet held under the right arm with a teal HUD-visor flipped up, a small embroidered Archer-style stylized eVTOL logo patch on the left chest of the flight suit, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Wszyscy czekamy na latające samochody z filmów science fiction. Ale wiesz co — one już startują, dosłownie tego lata. Pixel-art helipad na dachu nowoczesnego biurowca o świcie nad miastem Los Angeles, na płycie stoi pixel-art eVTOL flying taxi (smukły biało-charcoal kadłub z rust-red akcentami, sześć wirników w pierścieniu, aerodynamiczne skrzydła), Pilot stoi obok maszyny patrząc w kierunku wschodzącego słońca.
+
+Zatwierdzono 8 programów pilotażowych w USA. Maszyny startują pionowo jak helikopter, lecą na skrzydłach jak samolot, są cichsze niż klimatyzator i zabierają 4 pasażerów plus pilota. eVTOL właśnie startuje pionowo z helipadu — sześć wirników rozżarzonych soft teal, aerodynamiczny kadłub unosi się powoli, przez okna kabiny widać czterech pasażerów w stylizowanych fotelach plus Pilota w kokpicie z holograficznymi wskaźnikami.
+
+Toyota zainwestowała 500 milionów dolarów, Delta 80 milionów, Archer buduje sieć — polecimy nimi na Igrzyskach Olimpijskich w Los Angeles 2028. Wsiadłbyś do takiej taksówki? eVTOL przelatuje nad ikonicznym pixel-art panoramą Los Angeles ze stadionem olimpijskim w tle ukoronowanym flagą "LA 2028", sunset gold light kąpie miasto, pod skrzydłami logo Archer i Toyota pulsują dyskretnie w warm amber, Pilot uśmiecha się w kabinie.

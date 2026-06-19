@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.local
+
+# Claude Code internal state
+.memory/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Output — generated assets (frames, videos, final film)
+output/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

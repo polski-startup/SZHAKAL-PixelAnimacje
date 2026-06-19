@@ -1,0 +1,9 @@
+# CHARACTERS
+Anchor: tech-news anchor in their late 30s, slate-grey suit blazer over a soft white button-up shirt, dark indigo trousers, polished black shoes, short tidy dark-brown hair, slim wire-frame rectangular glasses with a faint amber HUD reflection on the lenses, a small embroidered globe-icon news-channel logo on the left chest pocket, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Apple zmienia CEO po raz pierwszy od 15 lat. Tim Cook przechodzi na Executive Chairman. Nowym szefem zostaje John Ternus — człowiek, który projektował iPhone'y, MacBooki i AirPody. Cook rządził Apple od 2011 roku, od śmierci Steve'a Jobsa. Pod jego zarządzaniem wycena firmy wzrosła pięciokrotnie od 2018 roku. Dziś Apple warte jest ponad 4 biliony dolarów.
+
+Brzmi jak triumf. Ale widzowie i analitycy od lat mówili to samo — Apple przestało zadziwiać. AI? Siri to żart przy ChatGPT i Geminii. Vision Pro? Klapa — produkt za 3500 dolarów, którego nikt nie kupuje. iPhone od dekady wygląda tak samo. Cook był mistrzem finansów, nie wizjonerem. I tu wchodzi Ternus.
+
+Inżynier w Apple od ponad 20 lat — zaczynał jeszcze pod Jobsem. Uczestniczył w niemal każdym kluczowym produkcie firmy. To największa zmiana warty w Apple od czasu gdy Jobs przekazał pałeczkę Cookowi. Pytanie jest jedno — czy Apple pod inżynierem wróci do formy sprzed 15 lat? Czy Ternus pociągnie AI i hardware tam, gdzie Cook zawiódł? A może $4 biliony to za dużo do stracenia, żeby ryzykować? Napisz w komentarzu — czy myślisz, że Apple potrzebuje rewolucji, czy spokoju?

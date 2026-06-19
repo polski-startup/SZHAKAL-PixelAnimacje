@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Twoje zapisane hasło w przeglądarce jest widoczne gołym okiem. Przeglądarka tylko udaje, że je ukrywa. Pokażę ci jak to zobaczyć w 10 sekund. Kliknij prawym przyciskiem na pole z hasłem. Wybierz "Inspect" — otworzysz DevTools.
+
+Znajdź linię z `type="password"`. Kliknij dwukrotnie na słowo "password". Wpisz "text" i zatwierdź enterem. Gotowe — hasło pojawia się jako zwykły tekst. Zero narzędzi zewnętrznych, zero hakowania.
+
+To literalnie zmiana jednego słowa w HTML. Teraz najważniejsza rzecz: każdy kto ma dostęp do twojego odblokowanego komputera może to zrobić. Działa w Chrome, Firefox i Edge — w Safari trzeba najpierw włączyć DevTools w ustawieniach przeglądarki. Więc jeśli zostawiasz komputer bez nadzoru — twoje hasła nie są bezpieczne. Password manager jak Bitwarden czy 1Password nie ratuje cię przed tym trickiem — hasło autouzupełnione przez menedżer też można ujawnić, a jedyna realna ochrona to zablokowanie ekranu przed odejściem od komputera. Masz pytanie — napisz w komentarzu jaką przeglądarkę używasz.

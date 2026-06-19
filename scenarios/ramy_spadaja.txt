@@ -1,0 +1,11 @@
+# CHARACTERS
+Engineer: AI systems engineer in their late 20s, heather-grey zip-up hoodie with the hood down, a small bright-teal pixel-art RAM-module glyph stitched on the left chest, charcoal joggers, matte-black tech sneakers with copper pixel-accents on the soles, short messy dark-brown hair, thin copper-wire round glasses with a faint cyan terminal reflection, soft-tan skin, calm focused problem-solver expression, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Engineer stoi w hali data center pełnej ciemnych szaf serwerowych. Nad szafami unosi się gigantyczny holograficzny wykres z liniami cen RAM, które właśnie zaczęły spadać diagonalnie w dół. Warm amber server-rack LEDs, cool cyan hologram.
+
+Close-up na chat-okno AI — długa rozmowa przewija się z lewej, a z prawej nadyma się wizualizacja KV cache jako pulsujący krymsonowy sześcian pełen 16-bitowych liczb. Pod spodem ikona RAM pokazuje 90% zużycia i syczy ostrzeżenie.
+
+Engineer stoi przed dużym hologramem procesu TurboQuant. Z lewej ten sam sześcian 16-bit, obracany losowo w pixel-art rotacji — outliery rozpuszczają się w gradiencie. Z prawej wychodzi mały turkusowy sześcian 3-bit, sześć razy mniejszy. Magiczna transformacja.
+
+Ten sam widok data center co w scenie 0 — ale teraz szafy są znacznie puściejsze, mniej LEDów pali się. Engineer uśmiecha się lekko, w ręku trzyma nową karte RAM z turkusowym glifem. Nad nim wykres cen dalej spada, konsument w tle (silhouette) sięga po ten RAM. Tani sprzęt dla wszystkich.

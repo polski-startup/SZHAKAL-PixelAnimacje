@@ -1,0 +1,9 @@
+# CHARACTERS
+Founder: lone indie solo-founder in their late 20s, rust-red hoodie with pushed-back hood, charcoal-black cargo pants, worn amber-tan leather boots, glowing teal wireframe-terminal glyph stitched on the left chest of the hoodie, short messy dark-brown hair, small copper-wire round glasses with a faint turquoise HUD reflection on the lenses, bronze mechanical wristwatch on the left wrist, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Founder siedzi sam w ciemnym mieszkaniu-studiu w wieczornej godzinie nad jednym laptopem. Wokół niego unoszą się półprzezroczyste holograficzne panele interfejsu — puste, czekające na wypełnienie.
+
+Founder wstaje z krzesła z rozpostartymi rękami. Wokół niego układa się krąg trzynastu świecących holograficznych paneli — każdy z innym logo-glifem narzędzia, każdy pulsuje własnym kolorem. Rust-red, cyan, magenta, bursztyn.
+
+Founder stoi na dachu mieszkania o wschodzie słońca. Za jego plecami wystrzeliwuje w niebo mała pixel-artowa rakieta — launch SaaSa. Miasto na dole budzi się do życia w parallax depth.

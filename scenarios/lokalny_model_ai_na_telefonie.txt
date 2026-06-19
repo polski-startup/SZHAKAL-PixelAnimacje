@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Jesteś w Japonii. Zero internetu, zero zasięgu. I masz przy sobie pełny model AI na telefonie. Bez serwera. Bez chmury. Zero danych wychodzących z urządzenia. Google właśnie wypuściło aplikację AI Edge Gallery. Pobierasz do niej modele Gemma 4 — wersje E2B i E4B zoptymalizowane pod telefon.
+
+Instalujesz raz, potem działa offline na zawsze. Możesz zadawać pytania tekstowe, wysyłać zdjęcie, nagrać głos — wszystko przetwarza się lokalnie. Widzisz japoński znak na ulicy i pytasz AI co oznacza. Brak internetu, a odpowiedź dostałeś w sekundę. I tu jest haczyk którego nie spodziewałeś się po mobilnym AI. Prędkość jest porównywalna z przeglądarkowymi modelami. Jest jeszcze drugi model w galerii — "mobile actions".
+
+Głosowo steruje systemem: włącza latarkę, ustawia głośność, otwiera aplikacje. Bez połączenia z serwerem. Bez historii zapytań u dostawcy. Jak pobrać: wejdź w sklep Google, wyszukaj AI Edge Gallery, pobierz model Gemma 4 E4B. Wymagania sprzętowe Google jeszcze nie podało oficjalnie. Działało płynnie na najnowszym iPhonie w trybie lotniczym. Twoje dane zostają w kieszeni. A Ty mi napisz — do czego użyłbyś lokalnego AI offline?

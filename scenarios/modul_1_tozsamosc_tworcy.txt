@@ -1,0 +1,37 @@
+# CHARACTERS
+Mentor: content creation coach in his mid-30s, soft sage-green button-up shirt with rolled-up sleeves over a clean white t-shirt, slim-fit dark indigo chinos, light-tan suede casual loafers, short tidy dark-brown hair with subtle salt-pepper accent at the temples, slim wire-frame round glasses with a faint amber HUD reflection on the lenses, warm friendly mentor expression, a small embroidered terminal-prompt-style glyph patch on the left chest of the shirt, sleek black-and-cyan smartwatch on the left wrist, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Czy zdarzyło Ci się poprosić AI o pomysł na film i poczuć wielkie rozczarowanie, bo rezultat był strasznie nijaki?
+
+Wpisujesz: „Wymyśl mi rolkę o zdrowym odżywianiu", a w odpowiedzi dostajesz listę oklepanych porad. „Jedz warzywa, pij wodę, ruszaj się". Brzmi to jak z taśmy produkcyjnej internetu. Taki scenariusz mogłaby nagrać absolutnie każda osoba na świecie.
+
+Znasz ten ból, prawda? Czytasz wygenerowany skrypt i myślisz: „Przecież ja w życiu bym tak nie powiedział!". Spędzasz bitą godzinę na przepisywaniu tego, co AI wypluło w pięć sekund. Zero oszczędności czasu, sama frustracja.
+
+Dlaczego tak się dzieje? Bo model AI, choć inteligentny, nie ma zielonego pojęcia, kim jesteś ani co Cię wyróżnia. Działa jak uniwersalny generator treści, który stara się trafić w gust przeciętnego odbiorcy. Bez Twoich wskazówek będzie grał bezpiecznie i sztampowo.
+
+Rozwiązanie? Musisz dać sztucznej inteligencji poznać siebie. Przekazać jej swoją „tożsamość twórcy". Brzmi to górnolotnie, ale chodzi o bardzo prostą rzecz: co czyni Ciebie Tobą w świecie twórców.
+
+Niektórzy nazwaliby to marką osobistą, ale ja wolę mówić wprost: to cała ta mieszanka Twojego stylu, wartości i doświadczeń, która sprawia, że Twoje materiały nie są kolejną kopią kogoś innego. Na tożsamość twórcy składa się kilka konkretnych klocków.
+
+Po pierwsze — tematy i nisza. O czym mówisz, jaka jest Twoja dziedzina, ale przedstawiana Twoim własnym głosem.
+
+Po drugie — wartości i poglądy. Co jest u Ciebie „święte", a czego absolutnie wolisz nie tykać w swoich treściach.
+
+Po trzecie — rola. Kim jesteś dla widza? Wyobraź sobie Gordona Ramsaya i Roberta Makłowicza. Obaj mówią o gotowaniu. Ale jeden krzyczy, wymaga perfekcji i rzuca mięsem, a drugi snuje poetyckie opowieści o kopereczku i pije winko w słońcu. Rola i vibe zmieniają absolutnie wszystko.
+
+Po czwarte — Twój kontekst życiowy. To tło Twoich opowieści. Jesteś cyfrowym nomadą, młodą mamą, montażystą z małego miasta, czy może właścicielem małej firmy?
+
+I wreszcie po piąte — Twoje doświadczenia i historie, które budują Twoją wiarygodność. Anegdoty, przykłady z życia, drogowskazy Twojej drogi. Krótko mówiąc: o czym mówisz, jak mówisz i dlaczego tak mówisz.
+
+Dlatego pytam Cię o niszę i o to, kim jesteś dla widowni. Jasne określenie sprawia, że AI podsunie metafory związane z Twoją dziedziną, a nie hasła, które pasują do każdego i do nikogo. A Twoja rola ustali ton komunikacji — czy luźny i potoczny, czy profesjonalny i rzeczowy.
+
+Twoje wartości wpływają na dobór słów, metafor i przykładów. Jeśli cenisz autentyczność, AI omija sprzedażowy bełkot. Jeśli cenisz humor i luz, system przemyca żart. A Twój wyróżnik sprawia, że każdy tworzony pomysł buduje spójny obraz Ciebie jako twórcy.
+
+Co Ci to daje? Przede wszystkim spójność, niezależnie od platformy. TikTok, Instagram, podcast na Spotify — wszędzie Twoja widownia poczuje ten sam klimat i osobowość. A spójność buduje rozpoznawalność. W morzu identycznych treści, bycie spójnym i charakterystycznym to Twoja największa przewaga.
+
+Po drugie, łatwiej będzie współpracować z innymi. Montażysta z briefem o Twojej tożsamości dostaje kompas. Marki wiedzą, czego się po Tobie spodziewać. A skalowanie — drugi kanał, podcast, asystent do social mediów — idzie sprawniej, bo fundamenty są jasno ustalone i mogą być przekazane dalej.
+
+Zobaczmy to na przykładzie. Dwóch twórców w fitness. Twórca A pisze do AI tylko: „pomysł na ćwiczenia dla początkujących" i dostaje „5 prostych ćwiczeń na dobry początek dnia" — film mógłby nagrać ktokolwiek. Twórca B opisuje siebie: trener-amator po trzydziestce, z humorem, dla zapracowanych, ceni autentyczność. Dostaje: „Poranny trening kawosza, 10 minut z kubkiem kawy w ręku" — z hasłem „Forma dla normalnych ludzi, nie dla modeli z okładki".
+
+Twoja tożsamość twórcy to Twoja tajna broń. Jeśli poświęcisz chwilę, żeby przekazać ją naszej AI, odwdzięczy Ci się to spójnymi, autentycznymi treściami na dużą skalę. Wypełnij pola, kliknij „Dalej" i zróbmy to.

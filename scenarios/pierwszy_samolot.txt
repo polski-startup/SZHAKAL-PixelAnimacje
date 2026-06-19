@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Pierwszy lot samolotem trwał dokładnie 12 sekund. Tyle co jeden głęboki oddech. 17 grudnia 1903 roku Orville Wright zmienił wszystko. Przelecieli 36 metrów. To mniej niż rozpiętość skrzydeł jednego Boeinga 747. Silnik miał zaledwie 12 koni mechanicznych.
+
+Twój odkurzacz pewnie ma więcej mocy. Bracia Wright nie mieli żadnego wykształcenia inżynierskiego. Naprawiali rowery w Dayton w Ohio. Przez cztery lata obserwowali ptaki i budowali szybowce. Tego samego dnia wykonali cztery loty. Ostatni trwał 59 sekund i pokonał 260 metrów.
+
+Zaledwie 66 lat później człowiek stanął na Księżycu. To jeden z najkrótszych skoków technologicznych w całej historii. Cały materiał użyty do budowy Flyera kosztował mniej niż 1000 dolarów. Oryginalny samolot wisi dziś w muzeum Smithsonian w Waszyngtonie. 12 sekund wystarczyło, żeby zmienić kierunek cywilizacji. A ty jak myślisz — co zmieni nas tak samo mocno przez najbliższe 66 lat? Napisz w komentarzu.

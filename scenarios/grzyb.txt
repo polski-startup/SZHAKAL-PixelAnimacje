@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Grzyby potrafią grać muzykę. Nie metaforycznie — dosłownie, podłączone do syntezatora. Przez grzybnię stale płyną sygnały bioelektryczne. Każdy impuls to nuta. Grzyb reaguje na światło — melodia się zmienia.
+
+Dotkniesz go — melodia się zmienia. Zmienisz temperaturę — melodia się zmienia. Projekt BionicandtheWires podłączył żywy grzyb do sprzętu muzycznego. I nagrał go na żywo w czasie rzeczywistym. To nie jest przypadkowy szum — to biologiczna odpowiedź na otoczenie. Mózgu brak, układu nerwowego brak.
+
+A mimo to grzyb zmienia zachowanie zależnie od otoczenia. Gdzie kończy się mechanizm, a zaczyna coś więcej? Natura skomponowała własną ścieżkę dźwiękową, zanim ktokolwiek wymyślił instrument. Bio-music to nie ciekawostka — to cały kierunek badań i sztuki. Granica między biologią a technologią właśnie zniknęła. A ty byś posłuchał albumu nagrywanego przez grzyby?

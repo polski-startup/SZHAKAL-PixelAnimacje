@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Widziałeś filmik: 7 narzędzi wystarczy żeby zbudować startup. Sprawdziłem każde z nich. Oto co naprawdę jest za darmo, a co to pułapka cenowa. Zaczynamy od kodowania. Cursor to AI IDE który pisze kod razem z tobą. Darmowy tier daje 50 premium zapytań miesięcznie. Do prototypu wystarczy. Hosting: Vercel. Darmowy plan pokrywa 100 GB transferu miesięcznie.
+
+Przy realnym ruchu przechodzisz na Pro — 20 dolarów. Backend: Supabase. PostgreSQL, auth i storage w jednym miejscu. Darmowo dostajesz 2 projekty i 500 MB bazy danych. Na MVP to absolutnie wystarczy. Ale jest jedno narzędzie które bierze procent od twoich przychodów. Stripe pobiera 1,4% plus 25 centów od każdej transakcji w EU. Przy pierwszej sprzedaży — nieodczuwalne. Przy 10 000 złotych przychodu miesięcznie — zostawiasz 140 złotych prowizji.
+
+Project management: Linear. Szybszy i prostszy niż Jira. Darmowy dla małych zespołów. Design inspiracje: Mobbin. Biblioteka screenshotów UI z najlepszych aplikacji na rynku. Zamiast wymyślać od zera — patrzysz jak robią to najlepsi. Łączny koszt tego stacku w pierwszym miesiącu? Bliski zeru — dopóki nie przekroczysz limitów darmowych planów. Które z tych narzędzi już masz w swoim stacku? Napisz w komentarzu.

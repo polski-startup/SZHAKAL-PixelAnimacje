@@ -1,0 +1,11 @@
+# CHARACTERS
+Scientist: Polish polar research scientist in their mid-30s, heavy crimson-red parka with fur-trimmed hood pulled up, charcoal snow pants, heavy black insulated boots with bronze buckles, thick grey mittens, small white-and-red Polish flag patch stitched on the left shoulder next to a pixel-art compass-and-ice glyph, frost crystals dusting the parka edges, breath visible as a warm vapor puff in pixel form, steady weather-hardened expression, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Olbrzymi kontenerowiec płynie przez wzburzony, szary ocean południowy. Na pokładzie stosy prefabrykowanych modułów budynku pomalowanych w krymsonowy i biały akcent. Na dalekim horyzoncie majaczy biała krzywizna Antarktydy. Cold blue ocean, stalowe niebo.
+
+Stacja Arctowskiego stoi na Wyspie Króla Jerzego na czterech grubych stalowych palach trzy metry nad lodem. Masywna pixel-art bryła prefabu — krymsonowe ściany, szerokie okna ze złocistym światłem. Wiatr wieje śnieżnymi kryształami diagonalnie przez kadr.
+
+Scientist przechodzi zewnętrznym pomostem stacji w środku antarktycznej zimy — wokół niego szaleje blizzard, flagi polskie łopocą na dachu. Warm amber windows stacji świecą ciepło jak jedyny zamieszkany punkt na czarno-białym krajobrazie. Kontrast zamknięte vs otwarte bazy.
+
+Wewnątrz laboratorium stacji — Scientist pochylony nad pixel-art mikroskopem z turkusową poświatą próbki. Przez duże okno widać spokojny antarktyczny świt, pastelowe różowo-pomarańczowe niebo odbijające się na lodzie. Ciepłe oświetlenie.

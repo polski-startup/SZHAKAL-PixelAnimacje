@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Twoje własne pismo może stać się czcionką w kilkanaście minut. Za darmo, bez instalacji, bez konta. Wchodzisz na kaligrafer.com. Pobierasz szablon — jedna kartka. Wypełniasz każde pole swoją ręką, literka po literce.
+
+Skanujesz lub fotografujesz telefonem. Wrzucasz plik na stronę. I to wszystko. Pobierasz gotową czcionkę i używasz jej gdzie chcesz. W Wordzie, Canvie Pro, Figmie, prezentacjach.
+
+Uwaga: sprawdź czy narzędzie obsługuje polskie znaki. Ą, ę, ś, ź — warto przetestować przed projektem. Ta czcionka, którą teraz widzisz, została stworzona dokładnie tą metodą. Nawet niezbyt staranne pismo wychodzi charakterystycznie. Kaligrafer.com — link w bio. Jaką czcionkę już masz zainstalowaną na swoim komputerze?

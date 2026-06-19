@@ -1,0 +1,11 @@
+# CHARACTERS
+Ash: slender rogue figure with a hooded dark-green cloak, rust-red scarf wrapped at the neck, bronze-plated bracer on the right forearm, matte black leather leggings, twin curved daggers sheathed at the hips with faint teal rune-glow on the pommels, single faint scar across the left cheek, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid
+
+# SCENES
+Ash stoi na krawędzi urwiska w godzinie zachodu słońca.
+Na horyzoncie płonie odległa twierdza, z której wznosi się gęsty słup dymu.
+
+Ash wyciąga powoli jeden z zakrzywionych sztyletów.
+Ostrze pulsuje miękkim turkusowym światłem run.
+
+Odwraca się w stronę ruin twierdzy i rusza biegiem po kamienistej ścieżce w dół.

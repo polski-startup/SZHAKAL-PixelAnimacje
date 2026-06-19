@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Plakat mapowy twojego miasta, wydrukowany w domu, za darmo. Nie z Allegro, nie z drukarni — z arkuszy A4 sklejonych razem. Oto dwa narzędzia, które to umożliwiają. Pierwsze: wpisujesz miasto lub dokładny adres. Kadrujesz mapę — pan i zoom. Zmieniasz styl: budynki, woda, warstwy.
+
+Eksportujesz gotowy plakat — bez rejestracji, za darmo z watermarkiem albo parę złotych bez. Ale masz problem: plakat A0 nie wejdzie do domowej drukarki. Tu wchodzi narzędzie drugie. Wgrywasz gotowy plik posteru. Ustawiasz szerokość — na przykład cztery arkusze A4. Serwis sam dzieli obraz na równe segmenty.
+
+Drukujesz, składasz, klejisz — i masz plakat ze sklepu. Teraz meta-fakt: oba narzędzia to odcinek 372 jednej serii. Trzysta siedemdziesiąt dwa klipy o niszowych narzędziach webowych. Istnieje cały internet użytecznych aplikacji, których algorytm ci nie pokaże. Linki do obu serwisów w opisie. Jakie miasto wydrukujesz jako pierwsze?

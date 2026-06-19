@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Istnieje strona, która celowo uszkodzi twój plik na żądanie. Nauczyciel próbuje go otworzyć — dostaje błąd "unreadable". Ty masz oryginalny dokument u siebie. Wchodzisz na stronę, uploadujesz swój dokument. Przewijasz w dół, klikasz jeden przycisk. Pobierasz uszkodzoną kopię — oryginał zostaje na twoim komputerze.
+
+Wysyłasz zepsutą wersję do nauczyciela lub szefa. On dostaje błąd przy próbie otwarcia. Prosisz o przedłużenie terminu — i dostajesz go. Ale tutaj robi się ciekawe. Google Docs otwiera pliki online. Może zignorować korupcję i wyświetlić dokument normalnie.
+
+Na nowoczesnych platformach trick może po prostu nie zadziałać. A uczelnie i firmy traktują to jako oszustwo. Konsekwencje: oblana praca, zwolnienie, wpis do akt. Sam autor tego triku pytał na filmiku: czy wpadnę przez to w tarapaty? Jeśli zadajesz sobie to pytanie — znasz już odpowiedź. Znacie inne sposoby na deadline bez ryzyka wpadki? Napiszcie w komentarzach.

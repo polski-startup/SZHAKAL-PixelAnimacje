@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Meta właśnie wypuściła AI, która przewiduje aktywność twojego mózgu. I działa na każdym — bez żadnego wcześniejszego skanowania. 720 osób uczestniczyło w badaniu fMRI. Oglądali filmy, słuchali podcastów, czytali — AI rejestrowała każdą reakcję mózgu. Ponad 1 000 godzin zarejestrowanych danych neurologicznych. Model mapuje 70 000 punktów danych rozmieszczonych po całym mózgu.
+
+Precyzja 70 razy wyższa niż poprzednie systemy tego rodzaju. Ale kluczowy przełom nie jest w tych liczbach. Poprzednie modele działały tylko na osobach ze zbioru treningowego. Ten działa zero-shot — na każdym człowieku, bez wcześniejszego skanowania. Pokazujesz mu wideo, on przewiduje jak twój mózg zareaguje — nie znając cię. To zmienia skalę zastosowań z laboratoryjnej do globalnej.
+
+Teraz wyobraź sobie: kamera, mikrofon i ten model w jednym urządzeniu. AI nie zna twoich danych — zna twoją kognicję w czasie rzeczywistym. W 2017 roku paper o Transformerach też wyglądał jak ciekawostka dla naukowców. Dziś Transformery to fundament ChatGPT, Claude i Gemini — warte bilion dolarów. Meta wypuściła to jako open weights. To może być ten sam cicho przełomowy moment. Jak myślisz — rewolucja medyczna czy największe zagrożenie prywatności dekady?

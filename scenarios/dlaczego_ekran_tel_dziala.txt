@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Kiedy dotykasz ekranu — twoje ciało zamienia się w komponent elektroniczny. Dosłownie. Za szkłem twojego telefonu ukryta jest siatka setek elektrod. Elektrody są cyklicznie ładowane przez kontroler i mierzą pojemność na każdym skrzyżowaniu siatki. Palec zbliża się do szkła i zmienia pojemność elektryczną między elektrodami. To zjawisko to capacitance — efekt pojemnościowy.
+
+Ekran nie czuje dotyku — czyta twoje ciało. Całą siatką elektrod zarządza jeden specjalizowany układ scalony — touch controller — który sekwencyjnie skanuje każde skrzyżowanie. Reaguje na zmianę pojemności w kilku milisekundach. Dlatego swipe jest płynny bez żadnego zauważalnego opóźnienia. Bez ludzkiej przewodności elektrycznej smartfon jest całkowicie ślepy. Rękawiczka blokuje sygnał — bo jej materiał jest izolatorem elektrycznym, który uniemożliwia zmianę pojemności na elektrodach. Ale tu jest coś czego większość ludzi nie wie.
+
+Zanim ta technologia wygrała — inżynierowie przez dekady testowali systemy mechaniczne i optyczne. Wszystkie zawiodły. Podstawy opisał Eric Johnson w Wielkiej Brytanii w 1965 roku, a CERN zbudował pierwszy działający ekran pojemnościowy w 1973 roku. Masowy rynek czekał do 2007 roku — kiedy Apple wbudowało multi-touch w pierwszego iPhone'a i uczyniło tę technologię standardem branżowym. Ponad czterdzieści lat zanim technologia trafiła do kieszeni każdego z nas. Twoje ciało jest dosłownie częścią układu elektrycznego za każdym razem gdy odblokujesz telefon. A Ty — wiedziałeś o tym wcześniej?

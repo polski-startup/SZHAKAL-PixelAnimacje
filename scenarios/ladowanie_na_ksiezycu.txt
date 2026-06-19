@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Jeśli lądowanie na Księżycu było fejkiem — ZSRR musiał o tym wiedzieć. I nigdy tego nie ujawnił. Pomyśl przez chwilę co to oznacza. Był rok 1969. ZSRR śledził każdy centymetr każdego lotu Apollo. Mieli globalne stacje śledzące, własnych inżynierów, własne satelity. Chcieli żebyśmy się ośmieszyli przed całym światem. I siedzieli cicho. Program Apollo zatrudniał pół miliona ludzi.
+
+500 000 inżynierów, techników, kontrolerów lotu. Sfałszować to przy takim świadku jak Moskwa — po prostu niemożliwe. Ale to wciąż tylko logika. Masz twardszy dowód fizyczny. Na Księżycu stoją retroreflektory. Odbijają laser pod kątem dokładnie 180 stopni — żadna naturalna powierzchnia Księżyca nie daje mierzalnego sygnału zwrotnego. Amator z odpowiednim sprzętem może wycelować laser i wykryć odbity sygnał z Księżyca sam. Japonia, Chiny, Korea Południowa i Indie orbitowały Księżyc własnym sprzętem. Wszystkie sfotografowały miejsca lądowań Apollo.
+
+Widać ścieżki i tory ruchu astronautów. A dlaczego nie wróciliśmy przez 50 lat? Bo Apollo nigdy nie był o nauce. To był wyścig zbrojeń z kosmosem w tle. Gdy ZSRR zrezygnował z programu księżycowego — Kongres uciął NASA funding. Po co wracać gdy wyścig się skończył? Artemis 2 zmieniła to właśnie teraz. Po ponad pół wieku przerwy ludzie polecieli ponownie. Którą teorię spiskową uważasz za najtrudniejszą do obalenia?

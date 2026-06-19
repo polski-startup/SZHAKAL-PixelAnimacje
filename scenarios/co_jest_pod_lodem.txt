@@ -1,0 +1,9 @@
+# CHARACTERS
+Geologist: polar geophysicist in their late 30s, heavy rust-orange parka with a fur-lined hood pulled back, charcoal-grey insulated trousers, sturdy black snow boots with cyan pixel-accents on the soles, short tidy dark-brown hair, climbing-style amber goggles pushed up on the forehead, a small University of Florida-style logo patch on the left chest of the parka, bronze-handled ice axe clipped to the belt, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Wszyscy uczyliśmy się że Ziemia ma kształt kuli. Ale to nie do końca prawda — pod Antarktydą właśnie odkryto gigantyczną dziurę grawitacyjną. Pixel-art globus Ziemi obraca się na czarnym tle kosmosu, na biegunie południowym pulsuje rust-red anomalia w kształcie wgłębienia.
+
+Badacze z University of Florida trafili na grawitacyjne zagłębienie. W tym rejonie lokalna grawitacja jest niższa niż norma a matematyczny poziom morza opada o równe 120 metrów. Geologist stoi na lodowcu Antarktydy obok pixel-artowego skanera grawimetrycznego, nad nim lewituje holograficzna mapa geoidy w soft cyan z wyraźnym wgłębieniem -120m oznaczonym rust-red.
+
+Za anomalię odpowiada przepływ materii w płaszczu Ziemi działający od 70 milionów lat. Dzięki nowym technologiom historia ta zapisana w skałach jest właśnie odczytywana. Co jeszcze kryje się pod lodem? Pixel-art przekrój Ziemi pokazuje warstwy aż do płaszcza, w środku pulsują pomarańczowo-czerwone strumienie konwekcji, Geologist patrzy w hologram z notatnikiem.

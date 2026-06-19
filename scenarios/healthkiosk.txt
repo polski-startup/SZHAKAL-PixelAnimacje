@@ -1,0 +1,9 @@
+# CHARACTERS
+Researcher: biomedical / materials researcher in their early 40s, white knee-length lab coat over a soft sage-green crew-neck, dark charcoal trousers, white lab clogs, short tidy black hair, slim silver wire-frame round glasses with a faint cyan HUD reflection on the lenses, a small embroidered atom-icon institute logo on the left chest of the lab coat, soft beige nitrile gloves on both hands, ~96px-tall pixel-art sprite
+
+# SCENES
+W Chinach automat — według twórców systemu — wystawia Ci receptę w 4 minuty. To nie jest klinika — to, według doniesień medialnych, stacja metra w Szanghaju. Podobno 250 kiosków AI działa tam każdego dnia. Wchodzisz, opisujesz objawy, automat mierzy Twoje parametry życiowe. Sztuczna inteligencja przeszukuje — według firmy — bazę 300 milionów konsultacji medycznych. Baza kiosku obejmuje ponad 100 powszechnych chorób.
+
+Po 4 minutach dostajesz diagnozę i plan leczenia. Każdą receptę zatwierdza zdalny lekarz z licencją — żaden automat nie działa bez nadzoru. Poważne przypadki dostają skierowanie do szpitala z kompletnym pakietem danych. Twórcy deklarują 95% skuteczność diagnostyczną. Twierdzą też, że skracają czas oczekiwania o 70% i redukują koszty opieki o 30%. Ale tu pojawia się problem, który większość materiałów przemilcza.
+
+5% błędów przy 15 000 pacjentów miesięcznie w jednym mieście to setki złych diagnoz. Żadna z tych liczb nie ma niezależnego źródła — wszystkie pochodzą z materiałów promocyjnych. Chiny wdrożyły już ponad 1 200 takich kiosków w całym kraju, według innych szacunków nawet 2 200. Inne państwa obserwują ten model i rozważają podobne rozwiązania. Pytanie nie brzmi: czy ta technologia działa. Pytanie brzmi: kto odpowiada prawnie, gdy AI się myli? Napisz w komentarzu — wpuściłbyś sztuczną inteligencję do swojej diagnozy?

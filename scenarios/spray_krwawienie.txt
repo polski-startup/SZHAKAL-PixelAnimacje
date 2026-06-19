@@ -1,0 +1,9 @@
+# CHARACTERS
+KoreanScientist: Korean biomedical researcher in their early 40s, white knee-length lab coat over a soft sky-blue surgical scrub top and matching trousers, white surgical clogs, short tidy black hair, a light-blue paper surgical mask pulled down to rest under the chin, slim wire-frame round glasses with a faint cyan HUD reflection, a small embroidered Korean flag accent on the left chest of the lab coat, rust-red latex gloves on both hands, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+KoreanScientist stoi przy stalowym blacie laboratoryjnym, nad którym lewitują trzy świetliste hologramy reprezentujące składniki proszku — pęczek zielonych wodorostów po lewej, klaster cyjanowych bakterii w środku, perłowo-białe muszle skorupiaków po prawej. Wszystkie trzy zlewają się delikatnymi smugami w szklaną ampułkę proszku, którą KoreanScientist trzyma w prawej dłoni.
+
+Mocny zoom na małą szklaną szalkę Petriego — pojedyncza kropla głębokoczerwonej krwi spada na zsypaną warstwę proszku z góry. W momencie kontaktu wybucha pixel-artowa reakcja chemiczna z miękkim złotym błyskiem, proszek przekształca się w półprzezroczysty rust-red elastyczny żel uszczelniający kroplę.
+
+Mock-up scena pola bitwy o świcie — pixel-art żołnierz w taktycznym mundurze klęczy nad rannym kolegą i spryskuje głęboką ranę na nodze drugiej postaci aerozolem ze srebrno-rust-red butelki. Spray formuje natychmiast półprzezroczysty żel-łatkę, który świeci miękkim ciepłym bursztynem, krwawienie zatrzymane w jedną sekundę.

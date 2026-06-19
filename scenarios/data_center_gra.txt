@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Microsoft wrzucił serwerownię do oceanu. I działała lepiej niż na lądzie. Projekt Natick — 864 serwery w stalowej kapsule na dnie Morza Północnego. Zanurzone na głębokość 36 metrów. Przez 2 lata obsługiwały ruch internetowy bez żadnej konserwacji.
+
+A ich awaryjność była 8 razy niższa niż w tradycyjnych centrach danych. Dlaczego? Bo pod wodą nie ma tlenu i wilgoci — głównych wrogów elektroniki. Zimna woda morska chłodzi serwery za darmo — zamiast gigantycznych klimatyzatorów. I tu się zaczyna najlepsza część.
+
+Duże centrum danych zużywa tyle prądu co 50 000 domów. Podmorskie — ułamek tego. Microsoft liczy że 50% centrów danych do 2030 będzie pod wodą lub przy wodzie. Twój film na YouTube właśnie mógł być przetworzony przez serwer na dnie oceanu. Co sądzisz — czy to przyszłość internetu czy za duże ryzyko?

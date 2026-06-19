@@ -1,0 +1,9 @@
+# CHARACTERS
+Hacker: lean figure in a deep-indigo hoodie with the hood pulled up casting a dramatic shadow over the face, only a faint teal glow visible where the eyes should be, charcoal-black joggers, fingerless black leather gloves, a small rust-red patch stitched on the left shoulder, matte black sneakers with cyan pixel-accents on the soles, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Ciemny pokój, na półce stoi generyczny plastikowy router ISP z pulsującą czerwoną diodą-backdoor. Hacker stoi w cieniu obok niego, w dłoni trzyma małą metalową płytkę z chipem — Raspberry Pi z delikatną turkusową poświatą.
+
+Drewniany warsztatowy stół w zbliżeniu, na nim rozłożone cztery elementy: Raspberry Pi, karta microSD, adapter USB Ethernet, zasilacz. Nad stołem lewituje półprzezroczysty ekran terminalowy z zielonym tekstem konfiguracji. Hacker składa elementy w całość.
+
+Hacker siedzi przy gotowym homebrew routerze. Na dużym holograficznym wskaźniku obok niego płonie liczba 900 Mbps w ciepłym bursztynowym świetle. W tle przez szczelinę w firance wpada świt — pierwsze ciepłe promienie słońca.

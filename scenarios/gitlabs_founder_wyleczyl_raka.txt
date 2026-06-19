@@ -1,0 +1,9 @@
+# CHARACTERS
+Anchor: tech-news anchor in their late 30s, slate-grey suit blazer over a soft white button-up shirt, dark indigo trousers, polished black shoes, short tidy dark-brown hair, slim wire-frame rectangular glasses with a faint amber HUD reflection on the lenses, a small embroidered globe-icon news-channel logo on the left chest pocket, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Współzałożyciel GitLab dostał raka i postanowił go zhakować. Sid Sijbrandij — Executive Chair jednej z największych firm DevOps na świecie — zamiast czekać, uruchomił protokół. Cztery etapy. Jak startup. Etap pierwszy: maksymalna diagnostyka. Wszystkie badania, jakie istnieją. Etap drugi: mapowanie dostępnych terapii. Nie jedna — wszystkie możliwe.
+
+I tu jest różnica, która może cię zaskoczyć. Standardowa medycyna testuje terapie sekwencyjnie — jedna po drugiej. Sid wdrożył je równolegle. Wszystkie naraz. AI przeszukiwało literaturę medyczną, dobierało protokoły, znajdowało opcje których lekarze by nie szukali. Founder mode w walce z własną śmiercią. Czwarty etap: skalowanie dla innych.
+
+Cały protokół — open-source. Dostępny publicznie dla każdego. Sam powiedział: "The winner takes it all." Kto ma dostęp do AI w medycynie personalnej — przeżywa. Kto nie ma — czeka w kolejce na standardowe leczenie. To nie jest dystopia. To dzieje się teraz, w 2026 roku. Pytanie do ciebie: czy protokół medyczny powinien być produktem czy dobrem wspólnym?

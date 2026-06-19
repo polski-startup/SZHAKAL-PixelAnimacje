@@ -1,0 +1,9 @@
+# CHARACTERS
+Anchor: tech-news anchor in their late 30s, slate-grey suit blazer over a soft white button-up shirt, dark indigo trousers, polished black shoes, short tidy dark-brown hair, slim wire-frame rectangular glasses with a faint amber HUD reflection on the lenses, a small embroidered globe-icon news-channel logo on the left chest pocket, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Chiński wojskowy superkomputer właśnie wyciekł do sieci. A to, co znaleziono w środku, dotyczy amerykańskiego bombowca stealth. Haker rzekomo włamał się do National Supercomputing Center w Tianjin. To centrum obsługuje symulacje lotnicze dla chińskiej armii. Wśród wykradzionych danych znalazły się materiały o B-21 Raider. Najnowszy bombowiec stealth Stanów Zjednoczonych — wciąż bez gotowości operacyjnej.
+
+Dokumenty opisują optymalizację stosunku siły nośnej do oporu aerodynamicznego. Jeden z fragmentów brzmi: "cruise aerodynamic performance is getting better." Ktoś w Chinach bardzo dokładnie przestudiował jak lata B-21. I tu zaczyna się naprawdę ciekawy wątek. Chiny właśnie rozwijają własny bombowiec stealth — H-20. Czy te badania to reverse engineering B-21 jako wzorca dla rywala?
+
+Ironia jest podwójna: najlepiej chroniony komputer wojskowy, a tajemnice wyciekają. Całość pochodzi od anonimowej persony hakerskiej — zero oficjalnych potwierdzeń rządowych. Żaden rząd ani firma bezpieczeństwa oficjalnie nie przyznała, że to prawda. Granica między szpiegostwem a publicznie dostępną aerodynamiką jest bardzo cienka. Co tak naprawdę wyciekło — wojskowe plany czy zwykła fizyka? Napisz w komentarzu co myślisz — hype czy realna operacja wywiadowcza?

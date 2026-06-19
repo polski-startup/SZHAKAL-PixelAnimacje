@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Spędziłeś 8 miesięcy budując mikroservisy i masz zero użytkowników. Brawo, właśnie zrobiłeś najczęstszy błąd indie deva. Perfekcyjna architektura nie ma znaczenia, jeśli nikomu nie zależy na tym co budujesz. Szybkie shipowanie i sprawdzenie czy ludzie zapłacą — to jest wartość. Indie devowie i vibe coderzy mają dziś narzędzia, które skracają czas od pomysłu do produktu.
+
+Do płatności jedno rozwiązanie dominuje: Stripe. Prosty, dobrze udokumentowany, sprawdzony przez miliony deweloperów. Do bazy danych i auth sprawdzaj alternatywy — Supabase to popularne wyjście, ale nie jedyne. Wybierz to co znasz i wdrożysz w godzinę, nie to co skaluje do miliona userów. Zapomnij o Google Analytics — to koszmar konfiguracji dla małego projektu. Są lżejsze alternatywy, które dają dane bez bólu głowy.
+
+Teraz uwaga — nie vibe coduj algorytmów biznesowych. AI assistant radzi sobie świetnie z boilerplatem, UI i integracjami. Ale logikę płatności i bezpieczeństwo — pisz i rozumiej sam. Stack nie ma znaczenia dopóki nikt ci nie płaci. Kiedy ktoś płaci — wtedy optymalizuj. Który tool z twojego stacku najbardziej skraca czas do pierwszego użytkownika?

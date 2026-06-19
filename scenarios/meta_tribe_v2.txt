@@ -1,0 +1,9 @@
+# CHARACTERS
+Anchor: tech-news anchor in their late 30s, slate-grey suit blazer over a soft white button-up shirt, dark indigo trousers, polished black shoes, short tidy dark-brown hair, slim wire-frame rectangular glasses with a faint amber HUD reflection on the lenses, a small embroidered globe-icon news-channel logo on the left chest pocket, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Meta właśnie wypuściła AI, które odczytuje aktywność twojego mózgu w czasie rzeczywistym. I udostępniła to za darmo całemu światu. Model trenowany był na danych od 720 osób. Ponad tysiąc godzin aktywności mózgowej jako dataset. Siedemdziesiąt tysięcy punktów danych na jedną kompletną mapę mózgu.
+
+AI widzi co oglądasz, słyszysz i czytasz — przez same sygnały neuronowe. Ale to nie jest nawet największy przełom. Model działa na mózgach, których nigdy wcześniej nie skanował. Zero kalibracji. Zero historii. Obcy mózg — AI go już rozumie. Twórcy porównują to do publikacji Transformera przez Google w 2017 roku. Ten jeden darmowy paper dał nam ChatGPT, Claude'a i Gemini.
+
+I branżę wartą biliony dolarów. Meta robi dokładnie to samo — oddaje fundament za darmo. Za tym pójdą wearables, interfejsy mózg-komputer, neurotechnologia nowej generacji. Ale jest jedno pytanie, które nikt głośno nie stawia. Kiedy AI rozumie nie twoje dane — a twoje myślenie — kto ma do tego dostęp? Napisz w komentarzu: to rewolucja czy nowy wymiar inwigilacji?

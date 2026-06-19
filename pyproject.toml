@@ -1,0 +1,5 @@
+[project]
+name = "szhakal-pixelanimacje"
+version = "0.1.0"
+description = "Polish narration script to stylized pixel-art game-cinematic video pipeline (9:16 default, 16:9 opt-in)"
+requires-python = ">=3.10"

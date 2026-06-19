@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Właśnie po raz pierwszy jako projekt DIY możesz zobaczyć, jak porusza się światło. Nie animacja. Prawdziwe nagranie. Pewien youtuber-inżynier zbudował kamerę zdolną do nagrania 2 miliardów klatek na sekundę. Dwa miliardy. Na każdej klatce światło przesuwa się zaledwie o 15 centymetrów.
+
+I widać to wyraźnie — jak fala przetaczająca się przez kadr. Prędkość światła to absolutna granica wszechświata — 300 tysięcy kilometrów na sekundę. Żadna materia, żadna informacja tej granicy nigdy nie przekroczy. Przez dekady wiedzieliśmy o tym z podręczników. Teraz możesz to dosłownie zobaczyć.
+
+Ale jest jeszcze jeden szczegół. Niecały rok temu ten sam człowiek nagrał miliard klatek na sekundę. Teraz podwoił swój własny rekord. Zrobił to w garażu — bez DARPA, bez NASA, bez laboratorium. Co za rok? A co ty chciałbyś zobaczyć w takim slow-motion?

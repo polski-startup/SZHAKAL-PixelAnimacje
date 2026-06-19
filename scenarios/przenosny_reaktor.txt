@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Armia USA pakuje reaktor jądrowy w cztery kontenery. Nie na stałą bazę — na ciężarówkę. To jest Projekt Pele — projekt wchodzi w fazę produkcji rdzenia i dostaw paliwa, a testy reaktora ruszą w 2027 roku. Departament Obrony USA od lat ma jeden problem na oddalonych bazach. Paliwo diesel trzeba ciągle dowozić konwojami. Konwoje paliwowe to historycznie ulubiony cel przeciwnika w czasie wojny. Jeden zniszczony konwój i baza zostaje bez prądu.
+
+Rozwiązanie: mikroreaktor jądrowy który mieści się w 4 standardowych kontenerach. Transportujesz go ciężarówką, pociągiem, statkiem albo samolotem. Moc: 1,5 megawata elektrycznego. Wystarczy dla całej odizolowanej bazy wojskowej. Działa latami bez uzupełniania paliwa. Ale jest coś jeszcze dziwniejszego niż reaktor w kontenerze. Paliwo nazywa się TRISO — to ceramiczne mikrokapsułki z materiałem jądrowym.
+
+Każda kapsułka jest projektowana tak, by nie stopić się nawet w warunkach katastrofy. To technologia która fizycznie nie może uciec z kapsuły. W grudniu 2025 firma BWX Technologies dostarczyła pierwszy pełny ładunek paliwa TRISO. Trafił do Idaho National Laboratory na przechowanie i przygotowanie przed testami reaktora. Formalne testy reaktora zaplanowane są na 2027 rok, a produkcja prądu — na 2028. To nie jest gadżet. To zmiana w doktrynie logistycznej całej armii. A co myślisz — czy cywilne mikroreaktory w kontenerach mają sens?

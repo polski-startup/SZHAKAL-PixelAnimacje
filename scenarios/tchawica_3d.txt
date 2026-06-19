@@ -1,0 +1,9 @@
+# CHARACTERS
+Surgeon: Korean head surgeon in their late 40s, surgical scrubs in deep teal-green, white knee-length surgical gown over them, white surgical clogs, short tidy black hair tucked under a teal-green surgical cap, a light-blue paper surgical mask pulled down to rest under the chin, sharp focused dark-brown eyes, slim wire-frame round glasses with a faint cyan HUD reflection, white nitrile surgical gloves on both hands, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Surgeon stoi w nowoczesnej pixel-artowej sali operacyjnej w nocy nad pacjentką leżącą na stole operacyjnym przykrytą sterylnym niebieskim materiałem. Nad pacjentką lewituje duży półprzezroczysty holograficzny skan tchawicy w soft cyan, zaznaczony brakujący fragment pulsuje delikatnie w kolorze rust-red.
+
+W zaciemnionym laboratorium przyległym do sali, pixel-artowa biodrukarka 3D drukuje fragment tchawicy warstwa po warstwie — w bioreaktorze formuje się ciepło-różowa, delikatnie unaczyniona tkanka w kształcie segmentu rurki, drukująca głowica jeździ po prowadnicach z małymi turkusowymi rozbłyskami przy każdej warstwie.
+
+Na sali operacyjnej Surgeon ostrożnie obiema dłońmi delikatnie umieszcza świeżo wydrukowany segment tchawicy w klatce piersiowej pacjentki. Z monitora kardiologicznego po prawej stronie wybiega stabilna zielona linia EKG, nad pacjentką unosi się soft golden glow akceptacji organu, Surgeon w spokoju kiwa głową.

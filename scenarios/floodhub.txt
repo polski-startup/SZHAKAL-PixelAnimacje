@@ -1,0 +1,11 @@
+# CHARACTERS
+Analyst: data scientist figure in their late 20s, ocean-blue zip-up hoodie with the hood down, charcoal-grey joggers, clean white-and-cyan sneakers, short-cropped dark hair, deep-amber glasses with a faint blue data-stream reflection on the lenses, a small teal AI-circuit glyph stitched on the left sleeve, soft-tan skin rendered with subtle pixel shading, focused determined expression, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Analyst stoi w holograficznym centrum operacyjnym. Przed nim półprzezroczysty globus Ziemi unosi się w powietrzu, usiany setkami miliona pulsujących teal punktów — Flood Hub monitorujący 700M ludzi. Warm amber desk ambient.
+
+Dramatyczny pixel-art krajobraz — dolina wiejska w Azji południowo-wschodniej, brunatna fala flash flood runie korytem rzeki, pixelowe drobiny kropel rozbryzgują. Czarno-czerwone niebo, deszcz leje.
+
+Analyst siedzi przy biurku, nad nim unosi się olbrzymi hologram neuronowej sieci AI w kształcie ziarna — z lewej wlatują małe pixel-art newspaper articles pełne tekstu, z prawej wychodzą czyste bursztynowe markery lokalizacji ze strzałkami czasu.
+
+Ta sama azjatycka wioska ale 24 godziny wcześniej, przed zalaniem. Warm morning light, mieszkańcy w drodze w górę wzgórza z torbami — dostali ostrzeżenie. Nad wioską unosi się półprzezroczysty turkusowy napis "24H WARNING" w pixel-art fontcie, serca ludzi bezpieczne.

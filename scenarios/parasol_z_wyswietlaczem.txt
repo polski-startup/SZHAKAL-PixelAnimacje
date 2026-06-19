@@ -1,0 +1,11 @@
+# CHARACTERS
+Pedestrian: everyday urban pedestrian in their mid-20s, navy-blue techwear jacket zipped up to the collar, dark charcoal cargo pants, matte-black urban sneakers with faint teal pixel-accents on the soles, small neutral grey shoulder bag, medium-length dark hair half-covered by a rain hood, calm curious expression, holding a futuristic OPPO-branded umbrella with its canopy curving up over their head, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Pedestrian idzie wąską rainy cyberpunkową ulicą w nocy. Nad głową trzyma OPPO parasol, w jego czarnej czaszy zamontowany świeci jasny pixel-art ekran 4K z ikoną map-nawigacji i strzałkami kierunkowymi.
+
+Close-up na parasol — rozłożona czasza pokazana schematycznie z etykietami specyfikacji w bursztynowym pixel-art HUDzie: "IP59 waterproof, 600K folds, Solar canopy, 4K display, 60kHz self-dry". Pedestrian stoi na mid-ground w deszczu, warm amber street-lamp glow.
+
+Ten sam parasol, ale HUD wyświetla wielki czerwony stempel "1.04.2026 — APRIL FOOL'S" w pixel-art stylu. Pedestrian patrzy na parasol z uniesioną brwią, kropla deszczu plumka o ekran. W tle na billboardzie OPPO hologramowy film reklamowy.
+
+Rzędy absurdalnych przedmiotów z ekranami na pustej scenie — lodówka, zegarek, okulary, tosty, kaktus, zwykła skarpetka. Wszystkie pulsują światłem. Pedestrian stoi pośrodku z pytajnikiem nad głową. Pixel-art satyra tech PR-u.

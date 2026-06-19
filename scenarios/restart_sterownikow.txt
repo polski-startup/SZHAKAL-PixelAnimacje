@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Masz czarny ekran i już sięgasz po przycisk zasilania. Poczekaj. Jest trick, który zna jeden na stu użytkowników Windows. Wciśnij jednocześnie Ctrl, Shift, Win i literę B. Ekran na chwilę miga.
+
+I wraca. To nie magia — Windows właśnie zresetował podsystem graficzny. Nie komputer, nie system — tylko warstwa renderowania w tle. Zajmuje dosłownie kilka sekund. Microsoft wbudował ten skrót już w Windows Vista — działa w każdej nowszej wersji, w tym 10 i 11.
+
+Wiedzą o nim głównie serwisanci i zaawansowani użytkownicy PC. Uwaga: działa tylko gdy klawiatura nadal odpowiada. Jeśli cały system jest zawieszony, skrót nie pomoże. Ale w dziewięciu przypadkach na dziesięć — to wystarczy. Następnym razem zanim wciśniesz reset, spróbuj tego najpierw. A Ty znałeś ten skrót wcześniej?

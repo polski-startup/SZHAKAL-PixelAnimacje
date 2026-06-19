@@ -1,0 +1,9 @@
+# CHARACTERS
+Researcher: ETH Zurich robotics researcher in their late 30s, white knee-length lab coat over a slate-grey crew-neck sweater and dark olive cargo pants, light-tan suede work shoes, short tidy black hair, sleek matte-black smart safety glasses with a thin amber HUD line across the lenses, a small ETH-style red-and-white logo patch on the left chest of the lab coat, bronze multi-tool clipped to the belt, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Researcher stoi przy dużej pixel-artowej drukarce 3D w nowoczesnym laboratorium ETH. Drukarka właśnie kończy drukować szkielet białej dłoni z widocznymi kośćmi i kanałami na ścięgna — głowica drukująca rzuca delikatne pomarańczowe iskierki, czarna płyta robocza świeci pod warstwami plastiku.
+
+Na warsztacie przed Researcherem leży złożona Orca Hand — biała robotyczna dłoń wielkości ludzkiej, z widocznym układem cienkich rust-red ścięgien-linek biegnących od nadgarstka do palców, srebrne stawy w widocznych miejscach. Każdy z pięciu czubków palców pulsuje miękkim turkusowym czujnikiem dotykowym pod elastyczną silikonową skórą.
+
+Robotyczna dłoń, zawieszona w powietrzu na cienkim wsporniku, ostrożnie chwyta drewnianą kostkę między kciukiem a palcem wskazującym. Czubki palców rozbłyskują czystym teal w momencie kontaktu — feedback dotykowy. Researcher stoi obok obserwując, w tle ekran z napisem "open-source" w pixel-art zielonej czcionce monospace.

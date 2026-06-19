@@ -1,0 +1,11 @@
+# CHARACTERS
+Altman: tech-CEO figure in his late 30s, slim build, charcoal-grey zipped bomber jacket with a tiny teal neural-network glyph stitched on the left chest, plain black t-shirt underneath, matte-black tactical cargo pants, worn dark leather sneakers with cyan pixel-accent laces, short dark-brown hair combed neatly to one side, thin round copper-wire glasses with a faint turquoise interface reflection on the lenses, pale-ivory skin rendered with subtle pixel shading, calm determined expression, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Altman stoi w minimalistycznym laboratorium neurotechnologicznym, trzyma w ręku papier kontraktowy z pulsującą czerwoną pieczęcią DEATH WARRANT. Za nim, w mid-ground, lśni masywny cylindryczny skaner mózgu.
+
+Altman leży na chirurgicznym łóżku pod neurologicznym hełmem połączonym grubym pękiem turkusowych światłowodów z olbrzymim serwerem. Jego ciało jest spokojne, a nad hełmem zaczyna się materializować pixel-artowe widmo jego świadomości jako złoty strumień danych.
+
+Widmo Altmana jako przezroczysty cyfrowy konstrukt unosi się w cyfrowej chmurze pełnej rusztowań, sieci neuronowych i świecących serwerów. Ciało biologiczne leży niżej jak pusta powłoka. Estetyka Cyberpunk 2077 ale w pixel-artowym stylu game-cinematic.
+
+Puste laboratorium. Tylko łóżko, monitor z pulsującym pytajnikiem i spokojne warm-amber światło świtu przez duże okno. Na ekranie serwera pulsuje słowo: "UPLOAD: 100%".

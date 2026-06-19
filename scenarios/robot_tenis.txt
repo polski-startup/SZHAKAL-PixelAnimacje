@@ -1,0 +1,30 @@
+# CHARACTERS
+Robot: humanoid tennis robot, sleek matte-white carbon-fiber chassis with visible panel seams and minimal exposed black joint actuators, hexagonal cyan accent lights running along the spine and inside the elbow, knee and shoulder joints, articulated bipedal frame at athletic human proportions, single thin horizontal cyan visor band across the smooth head plate where eyes would be, holding a modern matte-black carbon-fiber tennis racket with grey grip, athletic ready stance, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid, premium sci-fi game-cinematic aesthetic
+
+# SCENES
+Robot nauczył się grać w tenisa bez oglądania ani jednego meczu pro.
+Chińscy badacze nagrali kilku amatorów wykonujących podstawowe ruchy.
+Forehand, backhand, shuffle — w małej sali motion capture.
+I to wystarczyło.
+
+System reinforcement learning sam odkrył resztę.
+Footwork, timing, kąt rakiety — wszystko.
+Nie był programowany krok po kroku.
+Sam doszedł do tego przez trening.
+
+Ale był jeden problem.
+Nadgarstek człowieka podczas uderzenia jest prawie niemożliwy do precyzyjnego zmierzenia.
+System nauczył się korygować te dane w locie.
+Sam.
+
+W testach na żywo robot odbił forehandy z dokładnością powyżej 90 procent.
+Utrzymywał wymianę z różnych pozycji na korcie.
+Dwa roboty rozegrały między sobą symulację — 25 uderzeń z rzędu bez przerwy.
+
+I teraz ważna część.
+Nie chodzi o robotyczny tenis.
+Chodzi o to, że maszyna opanowała jedną z najbardziej wymagających motorycznie czynności — z niedoskonałych danych.
+Ta sama zdolność może trafić do chirurgii, ratownictwa, każdego zadania wymagającego precyzji w ułamku sekundy.
+
+Jak myślisz — gdzie takie roboty pojawią się pierwsze?
+Napisz w komentarzu.

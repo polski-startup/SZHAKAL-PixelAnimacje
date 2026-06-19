@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Założyłeś startup i nie wiesz jakich narzędzi użyć? Oto 5 narzędzi które zastąpią ci cały zespół. Krok pierwszy — Notion AI do zarządzania projektem i tworzenia dokumentacji. Zamiast pisać specyfikacje od zera, opisujesz problem i AI generuje strukturę za ciebie. Krok drugi — Cursor do pisania kodu.
+
+Nawet z podstawową wiedzą o kodowaniu możesz budować MVP przez rozmowę z AI. Krok trzeci — Zapier albo Make do automatyzacji procesów. Formularz wypełniony przez klienta automatycznie trafia do CRM, maila i Slacka. Krok czwarty — Gamma do tworzenia prezentacji inwestorskich. Wklejasz pitch deck w tekście, dostajesz gotowe slajdy w kilka minut.
+
+Krok piąty — Perplexity do researchu konkurencji. Zamiast godzin w Google dostajesz analizę rynku z cytowanymi źródłami. To jest stack który pozwala jednej osobie działać jak 10-osobowy zespół. Które z tych narzędzi już używasz? Napisz w komentarzu — chcę wiedzieć co sprawdza się u was.

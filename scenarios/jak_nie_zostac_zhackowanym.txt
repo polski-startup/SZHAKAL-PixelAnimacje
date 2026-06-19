@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Budujesz apkę z AI i myślisz, że jesteś bezpieczny? Twój klucz API OpenAI jest teraz widoczny dla każdego. Otwórz DevTools w przeglądarce — Twój klucz jest prosto w kodzie. To tak jakbyś dał kartę kredytową obcemu na ulicy. Jeden błąd i ktoś wysadzi Twój rachunek przez jedną noc. Rozwiązanie jest proste: klucze trzymasz tylko na serwerze.
+
+Zmienne środowiskowe plus edge functions — klucz nigdy nie trafia do przeglądarki. Drugi błąd: każde pole tekstowe w Twojej apce to wektor ataku. Search box, formularz, prompt — bez walidacji to otwarte drzwi. SQL injection, prompt injection, code injection — wszystko przez jedno pole. Mów AI żeby sanityzowało każdy input po stronie serwera, nie frontendu. Ale nawet to Cię nie uratuje bez rate limitingu. Jeśli ktoś może uderzyć w Twój backend 10 000 razy na minutę — uderzy.
+
+Jedna linia kodu z rate limitem ratuje Cię przed tym scenariuszem. Czwarty błąd to budowanie własnego systemu logowania od zera. Hasła, sesje, tokeny — każdy fragment to osobna podatność. Clerk, Firebase, Supabase, Auth0 — darmowe plany, gotowe zabezpieczenia, dramatycznie mniejsze ryzyko. Cztery błędy: klucze w frontendzie, brak walidacji, brak rate limitu, własny auth. AI generuje działający kod — ale działający nie znaczy bezpieczny. Który z tych błędów właśnie masz w projekcie? Napisz w komentarzu.

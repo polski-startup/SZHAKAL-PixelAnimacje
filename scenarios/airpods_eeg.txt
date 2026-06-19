@@ -1,0 +1,13 @@
+# CHARACTERS
+TechReporter: male tech-journalist in his early 30s, slim dark-charcoal blazer over a black soft cotton t-shirt with a subtle pixel-glyph chest motif, slim deep-indigo trousers, low-profile matte-black sneakers, short tidy dark-brown hair with a slight side part, slim brushed-titanium round glasses with a soft cyan HUD reflection on the lenses, calm focused analytical expression, sleek black wireless earbud just visible in his left ear with a faint cyan signal-pulse glow, ~96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+AirPods właśnie zaczęły czytać twój mózg. Apple zgłosił patent US20230225659A1 — słuchawki z elektrodami w wkładkach dousznych, mierzące aktywność elektryczną mózgu EEG plus ruchy mięśni, oczu i tętno.
+
+Największy problem in-ear EEG to jakość sygnału — anatomia ucha różna, słuchawki się przesuwają. Apple rozwiązuje to przez AI: wiele kanałów równolegle, algorytm w czasie rzeczywistym wybiera najlepszy sygnał.
+
+Patent wymienia konkretne zastosowania medyczne. Stagowanie snu, wykrywanie napadów padaczki. Komentatorzy spekulują, że ta technologia mogłaby wyłapywać wczesne markery chorób neurodegeneracyjnych — diagnostyka warta tysiące dolarów w urządzeniu konsumenckim.
+
+Apple nie jest pierwszy. NextSense, spin-out z Google'a, już sprzedaje in-ear EEG. Neurable robi focus tracking w słuchawkach. Ale jest jeden problem — dane neuronalne to najbardziej intymne dane jakie istnieją. Regulacje raczkują, Kolorado i Kalifornia zaczęły je traktować jako wrażliwe od 2024.
+
+Apple nie podał daty premiery. Słuchawki które słyszą co myślisz, są bliżej niż myślisz. Oddałbyś dane ze swojego mózgu za lepszego Siri?

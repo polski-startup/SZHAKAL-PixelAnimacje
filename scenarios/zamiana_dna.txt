@@ -1,0 +1,9 @@
+# CHARACTERS
+Researcher: biomedical / materials researcher in their early 40s, white knee-length lab coat over a soft sage-green crew-neck, dark charcoal trousers, white lab clogs, short tidy black hair, slim silver wire-frame round glasses with a faint cyan HUD reflection on the lenses, a small embroidered atom-icon institute logo on the left chest of the lab coat, soft beige nitrile gloves on both hands, ~96px-tall pixel-art sprite
+
+# SCENES
+Dwie literówki w genomie — i niemowlę miało umrzeć. Lekarze przepisali jego kod genetyczny bezpośrednio w żywym ciele. Terapia zaprojektowana od zera, dla jednej osoby, na jedną mutację. KJ urodził się z chorobą CPS1 — wątroba nie przetwarzała amoniaku. Rozkład każdego białka zamieniał się w amoniak — neurotoksynę niszczącą mózg. Bez leczenia: uszkodzenie mózgu, potem śmierć. Zamiast przeszczepu wątroby naukowcy zaprojektowali terapię od podstaw.
+
+Edycja genów namierzała jeden błędny nukleotyd wśród trzech miliardów. Terapia podana dożylnie dotarła prosto do komórek wątroby. I naprawiła błąd od środka. Ale skala tego projektu jest absurdalna. Sześć miesięcy od decyzji do iniekcji. FDA zatwierdziło ją w trybie ratunkowym — w ciągu jednego tygodnia. Żaden człowiek wcześniej tej konkretnej terapii nie dostał.
+
+KJ ma teraz dziesięć miesięcy. Siedzi, przewraca się, osiąga każdy kamień milowy. Może jeść znacznie więcej białka — ryzyko uszkodzenia mózgu drastycznie zmalało. Poprzednie terapie genowe działały dla grup pacjentów z tym samym błędem. Ta była zaprojektowana wyłącznie dla jednej osoby — de novo. To zmienia logikę leczenia rzadkich chorób genetycznych na zawsze. Ile takich dzieci czeka dziś bez opcji — bo ich mutacja jest za rzadka?

@@ -1,0 +1,9 @@
+# CHARACTERS
+Office: office worker in their early 30s seated at a desk in a tidy home office, soft cream button-up shirt with rolled-up sleeves, navy-blue chinos, a slim gold-tone wristwatch, short tidy chestnut-brown hair, a single warm coral-orange paper sticky-note attached to the laptop bezel as a personality accent, a subtle teal Word-style document glyph on the laptop lid, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Office siedzi przed laptopem w jasnym dziennym świetle, ekran pokazuje pusty dokument Word z migającym kursorem. Office wpatruje się w pustą stronę z zaciekawioną miną, palce zawieszone nad klawiaturą.
+
+Mocny zoom na ekran laptopa — wśród białej strony Word pojawia się świetlna formuła w stylowych pixel-artowych nawiasach klamrowych "{ DISPLAYBARCODE ... QR \\3 }", litery rozżarzają się od soft teal po jasny złoty.
+
+Office klepie palcem F9 z uśmiechem, na dokumencie Word kwitnie pięknie wygenerowany czarno-biały kod QR otoczony ciepłą złotą poświatą. Pixel-art smartfon w dłoni Office'a celuje kamerą w QR, mały zielony tick rozbłyska nad ekranem.

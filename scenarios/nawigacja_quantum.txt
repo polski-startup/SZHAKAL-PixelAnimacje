@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+GPS można zagłuszyć w kilka sekund. Pole magnetyczne Ziemi — nie. To urządzenie nawiguje bez żadnego sygnału satelitarnego. Zero satelitów. Zero sygnału. Zero zakłóceń. W środku są atomy, których spiny kwantowe reagują jak czujniki na drgania pola magnetycznego. Reagują na pole magnetyczne Ziemi i mierzą każdą jego zmianę.
+
+Pole magnetyczne jest inne w każdym punkcie planety. Działa jak unikalny odcisk palca konkretnej lokalizacji. Urządzenie porównuje te dane z magnetyczną mapą Ziemi. I wie dokładnie, gdzie się znajduje. Klasyczny GPS potrzebuje jednocześnie sygnałów z czterech satelitów. To urządzenie potrzebuje tylko fizyki Ziemi.
+
+I tu jest rzecz, która zmienia wszystko. Ptaki migrujące robią coś analogicznego od milionów lat. My budujemy to teraz w metalu i krzemie. Cel: nawigacja samolotów pasażerskich niezależna od jakiejkolwiek infrastruktury kosmicznej. Pomyśl, co dzieje się z GPS podczas konfliktu zbrojnego lub ataku elektronicznego. A napisz w komentarzu — gdzie jeszcze ta technologia mogłaby zmienić zasady gry.

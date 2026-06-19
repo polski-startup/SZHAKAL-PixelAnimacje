@@ -1,0 +1,9 @@
+# CHARACTERS
+Journalist: curious science journalist in their mid-30s, deep-burgundy crew-neck sweater over a soft cream button-up shirt, dark olive cargo pants, warm tan suede ankle boots, short tidy chestnut-brown hair, slim gold-rimmed round glasses with a faint amber HUD reflection on the lenses, a small embroidered telescope-icon logo on the left chest of the sweater, leather notebook tucked under the right arm, ~96px-tall pixel-art sprite
+
+# SCENES
+Ktoś obserwuje największe tajemnice AI — z kosmosu. Non-profit Epoch AI mapuje centra danych korporacji używając zdjęć satelitarnych. Ich metoda? Liczą przemysłowe chilery na dachach budynków. Im więcej chilerów — tym więcej ukrytej mocy obliczeniowej. I co znaleźli? xAI Colossus — superkomputer Muska — stanął w Memphis w zaledwie 122 dni.
+
+Wykonawcy twierdzili, że to minimum dwa lata roboty. Ale to dopiero początek. xAI dosłownie przekroczył granicę stanową Tennessee i Mississippi. Zainstalował tam dziesiątki turbin gazowych — żeby ominąć przeciążoną sieć Memphis. Prawo, regulacje, sieć energetyczna — branża AI gra w geopolitykę na poziomie stanów. Colossus 2 już działa od początku 2026 roku — xAI buduje teraz Building 3 o łącznej mocy 2 GW. OpenAI robi to samo w Teksasie — projekt nosi nazwę Ludicrous.
+
+875 akrów w Abilene. Tyle prądu, ile pochłania całe Seattle. Budżet inicjatywy Stargate: pół biliona dolarów. Te obiekty tworzą tysiące miejsc pracy — ale tylko podczas budowy: na szczycie prac w Abilene pracuje 6000 robotników. Potem zostaje niespełna 400 stałych pracowników i hałas turbin. Epoch AI widzi to, co firmy chcą ukryć — i robi to za darmo, z otwartych danych. A teraz pytanie do ciebie: czy powinniśmy wiedzieć, ile prądu napędza twoje AI?

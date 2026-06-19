@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: indie software developer in their late 20s, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers with cyan pixel-accents on the soles, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, silver mechanical wristwatch on the left wrist, ~96px-tall pixel-art sprite
+
+# SCENES
+Płacisz za CamScanner Premium albo Adobe Scan Premium? Google Drive to robi za darmo — i wygodniej. Wbudowany skaner PDF jest już w aplikacjach, których i tak używasz. Otwierasz Google Drive lub Google Files. Klikasz ikonę aparatu.
+
+Kładziesz dokument i zaczynasz skanować. Tu jest kluczowa przewaga — skanujesz dwie strony jednocześnie. Nie robisz oddzielnych zdjęć dla każdej strony. Przekładasz kartki, a PDF generuje się automatycznie. Prędkość jest praktycznie natychmiastowa.
+
+Całe notatki z jednego zeszytu — kilka minut i masz gotowy PDF. Plik ląduje od razu w Drive, zsynchronizowany na każdym urządzeniu. Google cicho wbudowało to narzędzie — bez żadnego ogłoszenia. Jeśli masz Google Drive, masz już ten skaner. Czy wiedziałeś że to tam jest?

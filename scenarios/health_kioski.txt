@@ -1,0 +1,9 @@
+# CHARACTERS
+Researcher: biomedical / materials researcher in their early 40s, white knee-length lab coat over a soft sage-green crew-neck, dark charcoal trousers, white lab clogs, short tidy black hair, slim silver wire-frame round glasses with a faint cyan HUD reflection on the lenses, a small embroidered atom-icon institute logo on the left chest of the lab coat, soft beige nitrile gloves on both hands, ~96px-tall pixel-art sprite
+
+# SCENES
+W Szanghaju możesz zobaczyć lekarza po drodze do pracy. Dosłownie — w metrze. Chiny wdrożyły 2200 kiosków AI, które diagnozują w kilka minut. Wchodzisz i opisujesz objawy głosowo albo tekstem. Kiosk mierzy ciśnienie, tętno i temperaturę. AI porównuje twoje dane z bazą ponad 300 milionów konsultacji. Baza obejmuje blisko 2000 różnych chorób.
+
+W modelu Ping An żaden lek nie jest wydawany bez decyzji prawdziwego lekarza. Lekarz weryfikuje wszystko zdalnie. Poważny przypadek? Trafiasz do szpitala z gotowym pakietem danych. Bez zbierania wywiadu od nowa. Tylko w metrze szanghajskim stoi 250 takich kiosków. 15 tysięcy ludzi miesięcznie — i to tylko w jednym mieście. Producent deklaruje około 94% dokładność i 70% krótszy czas oczekiwania.
+
+Te liczby nie mają niezależnych badań — to dane samej firmy. Ale sam model jest realny i ma sens. Nie AI zamiast lekarza. AI jako jego zasięg — do milionów ludzi na raz. To może być wzorzec dla krajów, gdzie lekarzy po prostu brakuje. Czy Polska powinna pójść w tym kierunku? Napisz w komentarzu.

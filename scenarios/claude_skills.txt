@@ -1,0 +1,9 @@
+# CHARACTERS
+Dev: software developer in their late 20s seated at a desk, charcoal-grey hoodie with the hood down, dark indigo jeans, simple black canvas sneakers, short messy dark-brown hair, small black-rimmed rectangular glasses with a faint amber HUD reflection on the lenses, a glowing teal terminal-prompt glyph stitched on the left chest of the hoodie, a silver mechanical wristwatch on the left wrist, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Dev siedzi przy biurku w półmroku z laptopem otwartym, twarz oświetlona zimnym niebieskim światłem ekranu. Wokół niego unoszą się powtarzające się chaotyczne notatki i fragmenty tekstu — każdy z lekko frustrującą czerwoną poświatą.
+
+Dev otwiera prosty edytor tekstu i tworzy nowy plik skill.md. Wokół niego materializuje się półprzezroczysta holograficzna struktura folderów świecąca soft teal — drzewko katalogów z plikiem skill.md w samym środku.
+
+Dev opiera się wygodnie w fotelu, twarz spokojna, ekran laptopa pełen czytelnego kodu i kolorowych komentarzy. Mały złoty banner "skill loaded automatically" rozjaśnia się nad ekranem, chaotyczne czerwone notatki rozpłynęły się.

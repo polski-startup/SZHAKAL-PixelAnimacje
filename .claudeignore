@@ -1,0 +1,24 @@
+# Generated assets — heavy, useless for AI context
+output/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Media (can appear outside output/ during experiments)
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# Python bytecode + caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# AI tooling internals
+.memory/
+.claude/

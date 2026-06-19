@@ -1,0 +1,25 @@
+# CHARACTERS
+Runner: lean male runner in their early 30s wearing a fitted dark navy technical short-sleeve sport tee, charcoal-grey running shorts, lightweight matte-black running shoes with cyan pixel-accents on the soles, short tidy dark-brown hair, slim black-rimmed square glasses with a faint amber HUD reflection on the lenses, a Garmin Fenix 8-style sport smartwatch on the left wrist with matte-black bezel and a dark watch-face showing small green accent dots, a small embroidered runner-silhouette logo on the left chest of the tee, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Słuchajcie, mam do was pytanie. Tak naprawdę kiedy biegacie i macie zegarek na nadgarstku — wiecie co on tam za was robi?
+
+Bo on tak realnie wykonuje za was działanie matematyczne. Pokażę wam o co chodzi.
+
+Widzicie te zielone światełka pod spodem? To są diody. Świecą zielonym światłem prosto w skórę, krew je pochłania, a sensor mierzy ile tego światła wraca z powrotem.
+
+Każde uderzenie serca to inny pomiar. Z tego zegarek dosłownie liczy wam puls — co sekundę, 24 godziny na dobę.
+
+A te czerwone, które czasem migoczą? To pulsoksymetr. I tu jest ciekawiej — bo razem z czerwoną świeci jeszcze jedna dioda, której nie widzicie gołym okiem. Podczerwona. Niewidzialna.
+
+I właśnie z różnicy pochłaniania tych dwóch świateł — czerwonego i podczerwonego — zegarek wylicza wam saturację, czyli ile tlenu jest aktualnie w waszej krwi.
+
+To nie jest magia. To jest matematyka. Równanie, które rozwiązuje wam zegarek w czasie rzeczywistym, kilkanaście razy na minutę. Na nadgarstku. Za pół tysiaka.
+
+Druga rzecz, która mnie kupiła — to wgrywanie tras GPX. W tym roku biegnę 12. Tarczyński Nocny Wrocław Półmaraton. Wszedłem na stronę wydarzenia, pobrałem plik gpx z oficjalną trasą, wgrałem do zegarka.
+
+I teraz biegam po fragmentach tej trasy w treningu — Most Grunwaldzki, stare miasto, te kilometry które na samym biegu będą najszybsze. Trasa atestowana i mocno płaska — tempo bazowe podciągnąłem o 10 sekund na kilometr.
+
+Zegarek pokazuje profil wysokościowy całej trasy, więc wiem dokładnie gdzie są podejścia. Biegam po tym samym fragmencie w różne dni i porównuje dane: szybciej, wolniej, jakie tętno na tym samym odcinku poprzednio.
+
+8 czerwca, Wrocław. 12. Tarczyński Nocny Wrocław Półmaraton — największy nocny półmaraton w Polsce. Ja będę. Wgrajcie trasę i sprawdźcie co potrafi wasze ciało.

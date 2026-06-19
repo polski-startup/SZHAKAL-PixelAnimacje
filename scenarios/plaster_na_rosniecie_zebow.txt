@@ -1,0 +1,11 @@
+# CHARACTERS
+Researcher: Korean dental researcher in their early 30s, clean white lab coat over a soft teal medical scrub top, charcoal-grey slim trousers, white-and-cyan trainers, short neatly-combed black hair, copper-wire round glasses with a faint turquoise laboratory HUD reflection, a small rust-red ID badge clipped to the lab coat chest pocket featuring an abstract pixel-art tooth-glyph, calm precise expression, rendered as a 96px-tall modern stylized pixel-art sprite with crisp pixel grid and strong readable silhouette
+
+# SCENES
+Researcher stoi w jasnym laboratorium. W prawej dłoni trzyma pincetą mały biały pixel-art plaster z pulsującymi turkusowymi glifami biomateriałów. Warm amber overhead clinical light.
+
+Extreme close-up na dziąsło w przekroju — plaster przytknięty do różowej tkanki, turkusowe pixel-art czynniki wzrostu i komórki macierzyste migrują w głąb. Pod spodem zaczyna się odbudowywać biały ząb — dentyna, szkliwo, korzeń — warstwa po warstwie.
+
+Researcher stoi przed dużym holograficznym wykresem kołowym — rynek implantów dentystycznych 5.5 mld USD w ciepłej bursztynowej ćwiartce. W lewej dłoni trzyma plaster — w HUD nad nim cena "kilka zł". Kontrast dominacji przemysłu vs mikro-rozwiązanie.
+
+Pacjent siedzi w fotelu dentystycznym uśmiechając się — ma pełny zestaw białych zębów, jeden z nich świeci turkusową pixel-aureolą jako ten nowo wyrośnięty. Researcher stoi obok z tabletem i delikatnie kiwa głową.

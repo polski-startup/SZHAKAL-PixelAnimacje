@@ -1,0 +1,9 @@
+# CHARACTERS
+Researcher: biomedical / materials researcher in their early 40s, white knee-length lab coat over a soft sage-green crew-neck, dark charcoal trousers, white lab clogs, short tidy black hair, slim silver wire-frame round glasses with a faint cyan HUD reflection on the lenses, a small embroidered atom-icon institute logo on the left chest of the lab coat, soft beige nitrile gloves on both hands, ~96px-tall pixel-art sprite
+
+# SCENES
+Co jeśli możesz spać lepiej, bez spania dłużej? Kanadyjska firma Bright Minds Biosciences opracowała lek na epilepsję — który przy okazji kompletnie zmienił sen pacjentów. Nazywa się BMB101. Twój mózg ma wbudowany "przełącznik czuwania". To obszar zwany locus coeruleus — gdy jest aktywny, blokuje wejście w fazę REM. Sen REM to ta faza, która naprawdę regeneruje umysł i pamięć.
+
+BMB101 aktywuje receptor serotoninowy 5-HT2C i wycisza ten przełącznik. Wyniki fazy 2 badań klinicznych mówią same za siebie. Czas snu REM wzrósł z 56 do 107 minut na noc. To wzrost o 90% — przy takim samym całkowitym czasie snu. I tu jest clou. Klasyczne tabletki nasenne — benzodiazepiny — często redukują fazę REM.
+
+BMB101 robi dokładnie odwrotnie. Zamiast wydłużać sen, zmienia jego strukturę. Efekty uboczne są łagodne: zmęczenie, bóle głowy, zaparcia. Lek nie jest jeszcze zatwierdzony — faza 2 zakończyła się pozytywnie, firma planuje fazę 3. Ale sam mechanizm to nowe myślenie o tym, czym jest jakość snu. Wolicie spać dłużej czy głębiej? Napiszcie w komentarzach.
